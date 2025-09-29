@@ -1,0 +1,511 @@
+{
+  "project_info": {
+    "project_number": "979356928920",
+    "firebase_url": "https://newme-f9c0a-default-rtdb.firebaseio.com",
+    "project_id": "newme-f9c0a",
+    "storage_bucket": "newme-f9c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:32ef59e112bb260d10f9ed",
+        "android_client_info": {
+          "package_name": "com.ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:988dd4687f8c424410f9ed",
+        "android_client_info": {
+          "package_name": "com.example.a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:350b424e9466a68110f9ed",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:3505b96745596ba010f9ed",
+        "android_client_info": {
+          "package_name": "com.example.help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:a1c777b5cddc32f110f9ed",
+        "android_client_info": {
+          "package_name": "com.example.jayeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:98ae76e822d1a13810f9ed",
+        "android_client_info": {
+          "package_name": "com.example.po"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-jog5vs99osq5m6mtjn48f56blq4iastg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.po",
+            "certificate_hash": "2e093d7ae953cbee987463ce7c562d03cab4dc0c"
+          }
+        },
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:b9f28d0b471e35eb10f9ed",
+        "android_client_info": {
+          "package_name": "com.example.rana_jayeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:53275279458976be10f9ed",
+        "android_client_info": {
+          "package_name": "com.example.ranajayeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:8e2c8dfa03ac54dd10f9ed",
+        "android_client_info": {
+          "package_name": "com.example.serv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:467906da67f43a7310f9ed",
+        "android_client_info": {
+          "package_name": "com.example.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-0kuhjsjqegt2cg5b7g13nsemiii7017p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test4",
+            "certificate_hash": "2e093d7ae953cbee987463ce7c562d03cab4dc0c"
+          }
+        },
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:0b131ec5b0d76f9910f9ed",
+        "android_client_info": {
+          "package_name": "com.example.whol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:9b161d1924a7c13210f9ed",
+        "android_client_info": {
+          "package_name": "com.farah.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-69helo8vmmh88pb64girtjsp710n3g64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farah.driversapp",
+            "certificate_hash": "2e093d7ae953cbee987463ce7c562d03cab4dc0c"
+          }
+        },
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979356928920:android:8fb85eda70933d8a10f9ed",
+        "android_client_info": {
+          "package_name": "com.rana_jayeen.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979356928920-av1ofr367mlt6gfb6s0ste9d7ghsr7fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rana_jayeen.android",
+            "certificate_hash": "2e093d7ae953cbee987463ce7c562d03cab4dc0c"
+          }
+        },
+        {
+          "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979356928920-gslfatcm9vgrfistvhjm9cp2e4ia18pa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979356928920-0o49u9r6372ltq7bsjkk1qseblle5nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fikra.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

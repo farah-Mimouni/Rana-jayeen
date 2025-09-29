@@ -1,0 +1,1335 @@
+{
+  "@@locale": "kab",
+  "@locationPermissionMessage": {
+    "description": "Izen n usuter n turagt n wadig"
+  },
+  "@allow": {
+    "description": "Aḍris n tqeffalt i usireg n turagt"
+  },
+  "@goToLogin": {
+    "description": "Aḍris n tqeffalt i usnubeg ɣer usebter n usekcem"
+  },
+  "@serverTimeout": {
+    "description": "Izen n tuccḍa n wakud n uqeddac deg usenqed n usesteb"
+  },
+  "@authError": {
+    "description": "Izen n tuccḍa tamatut i usenqed n usesteb"
+  },
+  "@checkingLoginStatus": {
+    "description": "Aḍris yettwaseknen deg usebter n usali deg usenqed n usesteb"
+  },
+  "@welcome1Title": {
+    "description": "Azwel n usebter amezwaru n usnubeg n usnas"
+  },
+  "@welcome1Desc": {
+    "description": "Aglam n usebter amezwaru n usnubeg n usnas"
+  },
+  "@welcome2Title": {
+    "description": "Azwel n usebter wis sin n usnubeg n usnas"
+  },
+  "@welcome2Desc": {
+    "description": "Aglam n usebter wis sin n usnubeg n usnas"
+  },
+  "@welcome3Title": {
+    "description": "Azwel n usebter wis kraḍ n usnubeg n usnas"
+  },
+  "@welcome3Desc": {
+    "description": "Aglam n usebter wis kraḍ n usnubeg n usnas"
+  },
+  "@welcome4Title": {
+    "description": "Azwel n usebter wis rebɛa n usnubeg n usnas"
+  },
+  "@welcome4Desc": {
+    "description": "Aglam n usebter wis rebɛa n usnubeg n usnas"
+  },
+  "@continueButton": {
+    "description": "Aḍris n tqeffalt n ukemmel"
+  },
+  "@nextButton": {
+    "description": "Aḍris n tqeffalt n imal"
+  },
+  "@skipButton": {
+    "description": "Aḍris n tqeffalt n usexser"
+  },
+  "@anonymous_user": {
+    "description": "Tasmagel n useqdac ur yettwassn ara"
+  },
+  "@no_chats_found": {
+    "description": "Izen mi ulac isqerdacen yettwafen"
+  },
+  "@message_queued": {
+    "description": "Izen mi yettwasers izen deg udrur"
+  },
+  "locationPermissionMessage": "Ttxil-k sired asireg n wadig iwakken ad d-tafeḍ imefkiyen yellan d asɣar",
+  "allow": "Sireg",
+  "goToLogin": "Ddu ɣer usekcem",
+  "serverTimeout": "Aqeddac yewweḍ akud n tuddsa i tririt.",
+  "authError": "Asenqed n usekcem ur yeddi ara. Ɛreḍ tikkelt-nniḍen.",
+  "checkingLoginStatus": "Asenqed n waddal n usekcem...",
+  "welcome1Title": "Talleɣt tayeẓlant",
+  "welcome1Desc": "Asnas ayeddafen i yettɛawanen ad \nifuk uguren n tkeṛṛust-ik",
+  "welcome2Title": "Imseɣtiyen i yessnen",
+  "welcome2Desc": "Ad k-id-nmuddu imseɣtiyen \nwid yesɛan tmusni yerna d asɣar yid-k",
+  "welcome3Title": "Tamahilin-nniḍen",
+  "welcome3Desc": "Tzemreḍ daɣen ad tfeydeḍ seg \ntamahilin-nneɣ nniḍen am asmel neɣ assekker n tkeṛṛust...",
+  "welcome4Title": "Talleɣt 24/7",
+  "welcome4Desc": "Ad nili yid-k anda ma telliḍ \nma tebɣiḍ ad tesɣerseḍ akud akked idrim, fren-aɣ",
+  "continueButton": "Kemmel",
+  "nextButton": "Imal",
+  "skipButton": "Ssexser",
+  "anonymous_user": "Aseqdac ur yettwassn ara",
+  "no_chats_found": "Ulac isqerdacen yettwafen",
+  "message_queued": "Izen yettwasers deg udrur",
+  "@add_from_gallery": {
+    "description": "Button label for adding image from gallery",
+    "type": "text"
+  },
+  "@additional_info": {
+    "description": "Label for additional information input field",
+    "type": "text"
+  },
+  "@address_error": {
+    "description": "Error message for address fetching failure",
+    "type": "text"
+  },
+  "@allServices": {
+    "description": "Title for all services page"
+  },
+  "@appLogo": {
+    "description": "Accessibility label for the app logo image"
+  },
+  "@appointmentTime": {
+    "description": "Label for the appointment time selection"
+  },
+  "@appointmentTimeError": {
+    "description": "Error message for missing appointment time selection"
+  },
+  "@appointment_booked": {
+    "description": "Message shown when an appointment is booked"
+  },
+  "@back": {
+    "description": "Label for back button"
+  },
+  "@batteryChargeDescription": {
+    "description": "Description for battery charge service"
+  },
+  "@batteryChargeTitle": {
+    "description": "Title for battery charge service"
+  },
+  "@bookingConfirmed": {
+    "description": "Message shown when a booking is confirmed"
+  },
+  "@bookingSummary": {
+    "description": "Title for booking summary section"
+  },
+  "@call": {
+    "description": "Label for the call button"
+  },
+  "@carACServiceDescription": {
+    "description": "Description for car AC service"
+  },
+  "@carACServiceTitle": {
+    "description": "Title for car AC service"
+  },
+  "@carElectricianDescription": {
+    "description": "Description for car electrician service"
+  },
+  "@carElectricianTitle": {
+    "description": "Title for car electrician service"
+  },
+  "@carInspectionDescription": {
+    "description": "Description for car inspection service"
+  },
+  "@carInspectionTitle": {
+    "description": "Title for car inspection service"
+  },
+  "@carMechanicDescription": {
+    "description": "Description for car mechanic service"
+  },
+  "@carMechanicTitle": {
+    "description": "Title for car mechanic service"
+  },
+  "@carWash": {
+    "description": "Title for the car wash service page"
+  },
+  "@changePhoneNumber": {
+    "description": "Label for change phone number button"
+  },
+  "@change_address": {
+    "description": "Label for the change address button"
+  },
+  "@chat_initiated": {
+    "description": "Message shown when a chat is initiated for a specific service",
+    "placeholders": {
+      "serviceTitle": {}
+    }
+  },
+  "@completeRegistrationMessage": {
+    "description": "Message for complete registration screen"
+  },
+  "@confirmCode": {
+    "description": "Label for confirm OTP button"
+  },
+  "@confirmVerificationCode": {
+    "description": "Title for OTP verification screen"
+  },
+  "@dateError": {
+    "description": "Error message for missing date selection"
+  },
+  "@dateOfWash": {
+    "description": "Label for the date of wash selection"
+  },
+  "@days": {
+    "description": "Label for number of days in booking"
+  },
+  "@days_ago": {
+    "description": "Format for days ago",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@description": {
+    "description": "Label for the description input field"
+  },
+  "@driverIncluded": {
+    "description": "Subtitle when with driver is selected"
+  },
+  "@empty_field_error": {
+    "description": "Error message for empty form field",
+    "type": "text"
+  },
+  "@enterCodeSentTo": {
+    "description": "Message for OTP input, showing phone number",
+    "placeholders": {
+      "phoneNumber": {
+        "description": "The phone number the OTP was sent to"
+      }
+    }
+  },
+  "@enterValidOtp": {
+    "description": "Error message for invalid OTP"
+  },
+  "@enterYourName": {
+    "description": "Hint for name input"
+  },
+  "@error_fetching_provider": {
+    "description": "Error message when fetching provider details fails"
+  },
+  "@error_fetching_stores": {
+    "description": "Error message when fetching stores fails"
+  },
+  "@error_location_denied": {
+    "description": "Error message when location permission is denied"
+  },
+  "@error_location_denied_forever": {
+    "description": "Error message when location permission is permanently denied"
+  },
+  "@error_location_disabled": {
+    "description": "Error message when location services are disabled"
+  },
+  "@error_location_failed": {
+    "description": "Error message when location retrieval fails",
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@error_message_fetch_failed": {
+    "description": "Error message when fetching messages from the database fails"
+  },
+  "@error_message_send_failed": {
+    "description": "Error message when sending a message to the database fails"
+  },
+  "@error_phone_call": {
+    "description": "Error message when making a phone call fails"
+  },
+  "@error_request_failed": {
+    "description": "Error message when request submission fails",
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@error_request_status": {
+    "description": "Error message when listening to request status fails",
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@error_search_failed": {
+    "description": "Error message when provider search fails",
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@error_user_location": {
+    "description": "Error message when user location is unavailable"
+  },
+  "@exteriorWash": {
+    "description": "Option for exterior car wash"
+  },
+  "@features": {
+    "description": "Label for vehicle features section"
+  },
+  "@findYourRide": {
+    "description": "Header for search card"
+  },
+  "@fullName": {
+    "description": "Label for full name field"
+  },
+  "@fullNameOptional": {
+    "description": "Label for full name input"
+  },
+  "@fullWash": {
+    "description": "Option for full car wash (exterior and interior)"
+  },
+  "@hours_ago": {
+    "description": "Format for hours ago",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@interiorWash": {
+    "description": "Option for interior car wash"
+  },
+  "@keyProgrammingDescription": {
+    "description": "Description for key programming service"
+  },
+  "@keyProgrammingTitle": {
+    "description": "Title for key programming service"
+  },
+  "@km": {
+    "description": "Unit for kilometers"
+  },
+  "@languageChanged": {
+    "description": "Confirmation message shown when language is changed"
+  },
+  "@loading_address": {
+    "description": "Message shown while loading the user's address"
+  },
+  "@locating": {
+    "description": "Message shown while fetching location",
+    "type": "text"
+  },
+  "@location_denied": {
+    "description": "Error message when location permission is denied",
+    "type": "text"
+  },
+  "@location_denied_forever": {
+    "description": "Error message when location permission is permanently denied",
+    "type": "text"
+  },
+  "@location_disabled": {
+    "description": "Error message when location services are disabled",
+    "type": "text"
+  },
+  "@location_error": {
+    "description": "Error message for location fetching failure",
+    "type": "text"
+  },
+  "@luxury": {
+    "description": "Label for luxury category"
+  },
+  "@minutes_ago": {
+    "description": "Format for minutes ago",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@mobile_car_wash": {
+    "description": "Option for mobile car wash service"
+  },
+  "@mobile_car_wash_provider": {
+    "description": "Label for mobile car wash provider"
+  },
+  "@no": {
+    "description": "Negative response for with driver toggle"
+  },
+  "@noInternetConnection": {
+    "description": "Error message for no internet connection"
+  },
+  "@no_provider_found": {
+    "description": "Message shown when no provider is found"
+  },
+  "@no_providers_available": {
+    "description": "Message shown when no providers are available"
+  },
+  "@no_stores_available": {
+    "description": "Message shown when no stores are available"
+  },
+  "@otpRequestTooSoon": {
+    "description": "Error message for OTP request too soon"
+  },
+  "@otpSendFailed": {
+    "description": "Error message for OTP send failure"
+  },
+  "@otpSentSuccessfully": {
+    "description": "Success message for OTP sent"
+  },
+  "@otpVerificationFailed": {
+    "description": "Error message for OTP verification failure"
+  },
+  "@phoneNumber": {
+    "description": "Label for phone number input"
+  },
+  "@phoneVerifiedSuccessfully": {
+    "description": "Success message for phone verification"
+  },
+  "@phone_not_available": {
+    "description": "Message shown when provider phone number is not available"
+  },
+  "@pleaseEnterName": {
+    "description": "Error message for empty name"
+  },
+  "@pleaseEnterValidPhone": {
+    "description": "Error message for invalid phone number"
+  },
+  "@popularServices": {
+    "description": "Title for popular services section"
+  },
+  "@pothole_report_category": {
+    "description": "Category name for pothole reports",
+    "type": "text"
+  },
+  "@pothole_report_description": {
+    "description": "Description for pothole reporting card",
+    "type": "text"
+  },
+  "@provider": {
+    "description": "Label for provider in booking summary"
+  },
+  "@report_pothole": {
+    "description": "Title for the pothole reporting screen",
+    "type": "text"
+  },
+  "@reports_label": {
+    "description": "Label for the number of reports",
+    "type": "text"
+  },
+  "@request_accepted": {
+    "description": "Message shown when the request is accepted"
+  },
+  "@request_timeout": {
+    "description": "Message shown when the request times out"
+  },
+  "@request_type": {},
+  "@resendCode": {
+    "description": "Label for resend OTP button"
+  },
+  "@resendInSeconds": {
+    "description": "Label for resend OTP timer",
+    "placeholders": {
+      "seconds": {
+        "description": "Number of seconds remaining"
+      }
+    }
+  },
+  "@reviews": {
+    "description": "Label for review count"
+  },
+  "@road_issue_report_title": {
+    "description": "Title for the pothole reporting section",
+    "type": "text"
+  },
+  "@scheduled": {},
+  "@searching_for_provider": {
+    "description": "Message shown while searching for a service provider"
+  },
+  "@seeMore": {
+    "description": "Button text to see more services"
+  },
+  "@selfDrive": {
+    "description": "Subtitle when with driver is not selected"
+  },
+  "@sendVerificationCode": {
+    "description": "Label for send OTP button"
+  },
+  "@serviceTypeError": {
+    "description": "Error message for missing service type selection"
+  },
+  "@service_not_available": {
+    "description": "Message shown when the service is unavailable",
+    "type": "text"
+  },
+  "@service_not_available_message": {
+    "description": "Additional message explaining service unavailability",
+    "type": "text"
+  },
+  "@service_type": {
+    "description": "Label for the service type selection"
+  },
+  "@services": {
+    "description": "Label for services offered by a store or provider"
+  },
+  "@severity_high": {
+    "description": "Label for high severity level",
+    "type": "text"
+  },
+  "@signIn": {
+    "description": "Title for sign in screen"
+  },
+  "@stationary_car_wash": {
+    "description": "Option for stationary car wash service"
+  },
+  "@store": {
+    "description": "Label for a car wash store"
+  },
+  "@submit": {
+    "description": "Button label for submitting the report",
+    "type": "text"
+  },
+  "@suv": {
+    "description": "Label for SUV category"
+  },
+  "@take_photo": {
+    "description": "Button label for taking a photo",
+    "type": "text"
+  },
+  "@taxDisclaimer": {
+    "description": "Disclaimer about taxes for bookings"
+  },
+  "@termsAndConditions": {
+    "description": "Text for terms and conditions agreement"
+  },
+  "@totalFor": {
+    "description": "Label for total price duration"
+  },
+  "@towTruckDescription": {
+    "description": "Description for towing service"
+  },
+  "@towTruckTitle": {
+    "description": "Title for towing service"
+  },
+  "@unknown": {
+    "description": "Fallback for unknown values"
+  },
+  "@unknownNumber": {
+    "description": "Fallback text when phone number is unavailable"
+  },
+  "@unknown_location": {
+    "description": "Fallback for unknown location"
+  },
+  "@unspecified": {
+    "description": "Fallback for unspecified values"
+  },
+  "@urgent": {},
+  "@urgent_request": {
+    "description": "Label for urgent request checkbox"
+  },
+  "@vehicle": {
+    "description": "Label for vehicle in booking summary"
+  },
+  "@vehicleBrand": {
+    "description": "Label for the vehicle brand input field"
+  },
+  "@vehicleBrandError": {
+    "description": "Error message for missing vehicle brand"
+  },
+  "@verificationCode": {
+    "description": "Label for OTP input"
+  },
+  "@views": {
+    "description": "Format for view count",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@waiting_for_confirmation": {
+    "description": "Message shown while waiting for provider confirmation"
+  },
+  "@washType": {
+    "description": "Label for the car wash type selection"
+  },
+  "@washTypeError": {
+    "description": "Error message for missing wash type selection"
+  },
+  "@wheelChangeDescription": {
+    "description": "Description for wheel change service"
+  },
+  "@wheelChangeTitle": {
+    "description": "Title for wheel change service"
+  },
+  "@yes": {
+    "description": "Affirmative response for with driver toggle"
+  },
+  "@your_location": {
+    "description": "Label for the user's location section",
+    "type": "text"
+  },
+  "about": "Ɣef",
+  "aboutUs": "Ɣef-nneɣ",
+  "aboutUsDesc": "Nseqdec-k akked iḥricen n tkerdis n tkeṛṛust i yettεawanen ad k-id-yerr ɣer webrid s zzerb.",
+  "acRepair": "Takerdis n tkeṛṛust",
+  "addComment": "Rnu awennit",
+  "add_content": "Rnu agbur",
+  "add_from_gallery": "Rnu seg teɣzert",
+  "additionalFeedback": "Awenniyen-nniḍen",
+  "additional_info": "Talɣut-nniḍen",
+  "addressError": "Ur yeddi ara ad d-yaf tansa",
+  "addressFetchError": "Ur yeddi ara ad d-yaf tansa.",
+  "addressFetchFailed": "Ur yeddi ara ad d-yaf tansa, ttxil-k ɛreḍ tikkelt-nniḍen",
+  "address_error": "Tuccḍa deg tifin n tansa. Ttxil-k ɛreḍ tikkelt-nniḍen.",
+  "advice": "Aselɣu",
+  "alert": "Alɣu",
+  "alertComingSoon": "Tamahilt n talɣut n uswurghu tura tettwasnef deg usbeddi, ad tili deg usnifel amaynut. Tanemmirt ɣef tmusni yinek!",
+  "all": "Akka",
+  "allCategories": "Akk akatiguyen",
+  "allServices": "Akk tamahilin",
+  "all_providers_busy": "Akk imefkiyen yellan ur sɛin ara tamahilt",
+  "alreadyHaveAccount": "Tesɛiḍ yagi amiḍan?",
+  "ambulance": "Ambulance",
+  "ambulanceDescription": "Taɣellist-ik teɛna. Ma yella tadyant n uswurghu, tzemreḍ ad d-tesned srid neɣ ad tazneḍ alɣu neɣ izen s wadig-ik.",
+  "apiBlockedError": "API n YouTube tura tewḥa. Ttxil-k ɛreḍ tikkelt-nniḍen neɣ nermes tasɣent.",
+  "apiInvalidError": "Tasaruṭ n API n YouTube ur teggi ara. Ttxil-k nermes tasɣent.",
+  "appDescription": "Asnas i yettmuddun tamahilin i yemdanen n webrid akked imawlan n tkeṛṛustin.",
+  "appLogo": "Alugu n We Are Coming",
+  "appRating": "Seqdec asnas-nneɣ",
+  "appointmentTime": "Akud n temlilit",
+  "appointmentTimeError": "Ttxil-k fren akud n temlilit",
+  "appointment_booked": "Temlilit terna",
+  "arabic": "Taɛrabt",
+  "arrivalTimeError": "Tuccḍa deg usnifel n wakud n tuwasin.",
+  "articles": "Iɣamsen",
+  "assigned_provider_info": "Talɣut ɣef umefki yettwafken",
+  "assigned_to_request": "Yettwafek ɣer usuter-ik!",
+  "authenticationFailed": "Tuccḍa deg usesteb: {error}",
+  "available": "Imefkiyen yellan",
+  "back": "Uɣal",
+  "batteryChargeDescription": "Asmel n tbatrit n tkeṛṛust neɣ abeddel-is",
+  "batteryChargeTitle": "Asmel neɣ abeddel n tbatrit",
+  "batteryChargeType": "Asmel n tbatrit",
+  "batteryReplacement": "Abeddel n tbatrit",
+  "becauseWeCome": "Acku nedda-d ɣur-k akked ayen tesriḍ, melmi yella, anda yella.",
+  "bookNow": "Sers tura",
+  "bookingConfirmed": "Asers yettwasentem",
+  "bookingSummary": "Agzul n users",
+  "brakeRepair": "Takerdis n yifraten",
+  "brakeServiceDescription": "Takerdis akked taseqqi n unagraw n yifraten i tɣellist.",
+  "brakeServiceTitle": "Takerdis n yifraten",
+  "brands": "Tizdatin",
+  "browse_posts": "Ẓer isemliyen",
+  "call": "Sned",
+  "callDriver": "Sned umefki",
+  "callError": "Ur yeddi ara ad yeddu usned.",
+  "callFailed": "Ur yezmir ara ad yeddu usned",
+  "callProvider": "Sned umefki",
+  "callUs": "Sned-aɣ",
+  "call_now": "Sned tura",
+  "call_provider": "Sned umefki",
+  "call_provider_button": "Tqeffalt n usned i umefki",
+  "cancel": "Sefsex",
+  "cancelRequest": "Sefsex asuter",
+  "cancelService": "Sefsex tamahilt",
+  "cancel_request": "Sefsex asuter",
+  "cancel_request_button": "Tqeffalt n usefsex n usuter",
+  "cannot_make_call": "Ur yezmir ara ad yeddu usned ɣer",
+  "car": "Tkeṛṛust",
+  "carACServiceDescription": "Takerdis neɣ asmel n unagraw n tkeṛṛust",
+  "carACServiceTitle": "Tamahilt n tkeṛṛust",
+  "carElectricianDescription": "Asmekti akked takerdis n unagraw n tkeṛṛust",
+  "carElectricianTitle": "Amekanik n tkeṛṛust",
+  "carFixesTips": "Takerdis akked isalɣuyen n tkeṛṛust",
+  "carInspectionDescription": "Asmekti ummid n tkeṛṛust send asɣar neɣ s wudem asertan",
+  "carInspectionTitle": "Asmekti n tkeṛṛust",
+  "carMechanicDescription": "Takerdis n tkeṛṛust tamatut ɣer wadig-ik",
+  "carMechanicTitle": "Amekanik n tkeṛṛust",
+  "carRental": "Asekka n tkeṛṛust",
+  "carRentalDescription": "Tamahilin n usekka n tkeṛṛust yellan",
+  "carRentalTitle": "Asekka n tkeṛṛust",
+  "carUnlock": "Aldag n tkeṛṛust",
+  "carWash": "Asuddes n tkeṛṛust",
+  "carWashDescription": "Tamahilin n usuddes n tkeṛṛust s tɣerda",
+  "carWashTitle": "Asuddes n tkeṛṛust",
+  "cars": "Tikeṛṛusin",
+  "cashback": "20% n tiririt",
+  "category": "Taggayt",
+  "center_map": "Sers akartu ɣef wadig-iw",
+  "changeAddress": "Beddel tansa",
+  "changeLocation": "Beddel wadig",
+  "changeLocationTitle": "Beddel wadig",
+  "changePhoneNumber": "Beddel uṭṭun n usawal",
+  "change_address": "Beddel tansa",
+  "change_location": "Beddel wadig",
+  "change_location_button": "Tqeffalt n ubeddel n wadig",
+  "chat": "Asqerdec",
+  "chatNow": "Sqeddec tura",
+  "chat_initiated": "Asqerdec yebda i {serviceTitle}",
+  "chat_queued": "Asqerdec yettwasken i tuzzna mi ara yili uẓeṭṭa",
+  "chooseLanguage": "Fren tutlayt",
+  "civilProtection": "Amesten amezwar",
+  "civilProtectionDescription": "Taɣellist-ik teɛna. Ma yella tadyant n uswurghu, tzemreḍ ad d-tesned srid neɣ ad tazneḍ alɣu neɣ izen s wadig-ik.",
+  "close": "Mdel",
+  "comfortableSedan": "Tkeṛṛust n tɣerda tamellilt",
+  "comingSoon": "Ad yili s zzerb!",
+  "commentError": "Tuccḍa deg usnuz n wawennit",
+  "commentPosted": "Awennit yettwazna s wudem",
+  "comments": "Awenniten",
+  "completeRegistrationMessage": "Sekcem talɣut-ik iwakken ad tebduḍ.",
+  "confirmCode": "Sentem asul",
+  "confirmDeletePost": "Sentem asuppar n usemli",
+  "confirmDeletePostMessage": "Is itaqaḍ ad tesfesxeḍ asemli-yagi? Tigawt-a ur tezmir ara ad tettu.",
+  "confirmSubscribe": "Sentem asumer",
+  "confirmSubscribeMessage": "Tebɣiḍ ad tsumerḍ ɣer ugbur n useqdac-a?",
+  "confirmUnsubscribe": "Sentem assefsex n usumer",
+  "confirmUnsubscribeMessage": "Tebɣiḍ ad tesfesxeḍ asumer ɣer ugbur n useqdac-a?",
+  "confirmVerificationCode": "Sentem asul n usenqed",
+  "connection_restored": "Tuqqna tettuɣal",
+  "contact": "Nermes",
+  "contactProvider": "Nermes umefki",
+  "contactUs": "Nermes-aɣ",
+  "contact_provider_button": "Tqeffalt n unermes n umefki",
+  "contacting_driver": "Nermes umefki",
+  "content": "Agbur",
+  "currency": "SAR",
+  "currentLocation": "Adig amiran",
+  "dashboard": "Tafelwit",
+  "dataError": "Tuccḍa deg usali n isefka.",
+  "dataSavedError": "Tuccḍa deg usekles n isefka: {error}",
+  "dataSavedSuccess": "Isefka yettwaskelsen s wudem",
+  "date": "Azemz",
+  "dateError": "Ttxil-k fren azemz n usuddes",
+  "dateOfWash": "Azemz n usuddes",
+  "days": "Ussan",
+  "days_ago": "{count, plural, zero{0 n wussan} one{1 n wass} other{{count} n wussan}}",
+  "defaultSort": "Amagnu",
+  "default_location": "Adig amezwaru (Dzayer)",
+  "delete": "Kkes",
+  "deletePost": "Kkes asemli",
+  "delivery_option": "Axtir n walaf",
+  "delivery_option_subtitle": "Fren ma tebɣiḍ tamahilt ad k-d-yas ɣur-k",
+  "desc_bmw_r1250gs": "Aṭaṭa n usnuni s tmahilin n tɣerda",
+  "desc_chevrolet_silverado": "Tkamiyunt tameqqrant s tezmert n usiɣel",
+  "desc_ford_f150": "Tkamiyunt s tezmert tamaynut",
+  "desc_ford_mustang": "Tkeṛṛust tamarikant s tezmert tamaynut",
+  "desc_harley_sportster": "Aṭaṭa amagnu s usnulfu akalaw",
+  "desc_honda_cbr600rr": "Aṭaṭa n tnezri s tezmert tamaynut i wid yessnen",
+  "desc_honda_civic": "Tkeṛṛust tanzayt s usmekti yelhan",
+  "desc_toyota_corolla": "Tkeṛṛust tamellilt s tmahilin tamaynutin",
+  "desc_toyota_tacoma": "Tkamiyunt n tmeẓẓi n tadderwit s tezmert akked usnulfu n webrid",
+  "description": "Aglam",
+  "determining_provider_location": "Asbadu n wadig n umefki...",
+  "diagnostic": "Asmekti",
+  "discountBanner": "Afray n uswan",
+  "dismiss": "Sefsex",
+  "distance": "Ameccaq",
+  "dontHaveAccount": "Ur tesɛiḍ ara amiḍan?",
+  "driver": "Amefki",
+  "driverArrived": "Amefki yewweḍ",
+  "driverComing": "Amefki ad yewweḍ deg",
+  "driverHasArrived": "Amefki yewweḍ",
+  "driverIconLoadFailed": "Ur yeddi ara ad d-yessali asɣar n umefki",
+  "driverIncluded": "Amefki yettwaserreḥ",
+  "driverInfo": "Talɣut ɣef umefki",
+  "driverInfoError": "Tuccḍa deg tifin n telɣut n umefki.",
+  "driverIsComing": "Amefki ad yewweḍ - Akud n tuwasin: ",
+  "driverOnWay": "Amefki ɣef webrid",
+  "driverSearchError": "Ur yeddi ara ad d-yaf imefkiyen.",
+  "driverToDestination": "Ɣef webrid ɣer wadig",
+  "driver_info_not_found": "Isefka n umefki ulac-it",
+  "editPost": "Beddel asemli",
+  "email": "Imayl",
+  "emailUs": "Azen-aɣ imayl",
+  "emergencies": "Tadyatin n uswurghu",
+  "emergencyContacts": "Inermisen n uswurghu",
+  "emergencyInfo": "Ma yella tadyant n uswurghu, ur tẓay ara ad d-tesned s zzerb. Taɣellist-ik teɛna aṭas.",
+  "emergencyNumbers": "Uṭṭunen n uswurghu",
+  "emptyComment": "Awennit ur yezmir ara ad yili d ilem",
+  "empty_field_error": "Aḥric-a ur yezmir ara ad yili d ilem",
+  "enRoute": "Ɣef webrid:",
+  "enable_notifications": "Sermed isawalen",
+  "english": "Taglizit",
+  "enterCodeSentTo": "Sekcem asul yettwaznen ɣer {phoneNumber}",
+  "enterDescription": "Sekcem aglam (d axetryan)",
+  "enterFeedback": "Sekcem awennit-ik (d axetryan)...",
+  "enterPartName": "Sekcem isem n uḥric",
+  "enterText": "Ttxil-k sekcem aḍris",
+  "enterValidOtp": "Ttxil-k sekcem asul n 6 n yizwilen yelhan",
+  "enterVehicleBrand": "Sekcem tizdit n tkeṛṛust",
+  "enterYourName": "Sekcem isem-ik",
+  "error": "Tuccḍa",
+  "errorAddress": "Tuccḍa deg tifin n tansa",
+  "errorLoadingServices": "Tuccḍa deg usali n tamahilin",
+  "errorLocation": "Tuccḍa deg tifin n wadig",
+  "errorMessage": "Yella wacu ur yeddin ara",
+  "errorRequest": "Ur yeddi ara ad yessebɣel asuter-ik",
+  "errorSendingOtp": "Ur yeddi ara ad yazen asul n usenqed: {error}",
+  "errorUnexpected": "Tuccḍa ur nettura ara",
+  "error_checking_location_permission": "Tuccḍa deg usenqed n turagt n wadig",
+  "error_fetching_chats": "Tuccḍa deg tifin n isqerdacen",
+  "error_fetching_driver_details": "Ur yeddi ara ad d-yaf talɣut n umefki",
+  "error_fetching_gas_stations": "Ur yeddi ara ad d-yaf tiɣremt n usmel",
+  "error_fetching_provider": "Tuccḍa deg tifin n talɣut n umefki",
+  "error_fetching_stores": "Tuccḍa deg tifin n idkiren",
+  "error_location_denied": "Turagt n wadig ttwager",
+  "error_location_denied_forever": "Turagt n wadig ttwager i lebda",
+  "error_location_disabled": "Tamahilin n wadig ttwaxxamt",
+  "error_location_failed": "Ur yeddi ara ad d-yaf wadig",
+  "error_message_fetch_failed": "Ur yeddi ara ad d-yaf iznan: %s",
+  "error_message_send_failed": "Ur yeddi ara ad yazen izen: %s",
+  "error_phone_call": "Ur yeddi ara ad yeddu usned",
+  "error_request_failed": "Ur yeddi ara ad yazen asuter: {error}",
+  "error_request_save": "Ur yeddi ara ad yekles asuter",
+  "error_request_status": "Tuccḍa deg usiwel n waddal n usuter: {error}",
+  "error_search_failed": "Tuccḍa deg unadi n umefki: {error}",
+  "error_tracking_request": "Ur yeddi ara ad yeqqim asuter",
+  "error_user_location": "Ur yeddi ara ad d-yaf talɣut n useqdac neɣ wadig",
+  "expand_search": "Ssemɣer anadi",
+  "expanding_search": "Ssemɣer aray n unadi ɣer",
+  "exteriorWash": "Asuddes n berra",
+  "exterior_wash": "Asuddes n berra",
+  "failed_phone_call": "Ur yeddi ara ad yeddu usned",
+  "failed_to_book_store": "Ur yeddi ara ad yers adukan",
+  "failed_to_cancel_request": "Ur yeddi ara ad yefsex asuter.",
+  "failed_to_create_request": "Ur yeddi ara ad yernu asuter. Aɛraḍ tikkelt-nniḍen...",
+  "failed_to_fetch_driver_details": "Ur yeddi ara ad d-yaf talɣut n umefki",
+  "failed_to_get_address": "Ur yeddi ara ad d-yaf tansa.",
+  "failed_to_get_location": "Ur yeddi ara ad d-yaf wadig",
+  "failed_to_initialize": "Ur yeddi ara ad yebda asnas",
+  "failed_to_initialize_provider_search": "Ur yeddi ara ad yebda anadi n imefkiyen.",
+  "failed_to_load_messages": "Ur yeddi ara ad d-yessali iznan n usqerdec",
+  "failed_to_load_providers": "Ur yeddi ara ad d-yessali imefkiyen.",
+  "failed_to_make_call": "Ur yeddi ara ad yeddu usned",
+  "failed_to_monitor_status": "Ur yeddi ara ad yeqqim addal n usuter",
+  "failed_to_notify_provider": "Ur yeddi ara ad yalɣu umefki",
+  "failed_to_open_chat": "Ur yeddi ara ad yeldi asqerdec",
+  "failed_to_receive_ride_updates": "Ur yeddi ara ad d-yaf isnifal n usuter",
+  "failed_to_restore_state": "Ur yeddi ara ad yerr addal",
+  "failed_to_search_providers": "Ur yeddi ara ad d-yaf imefkiyen.",
+  "failed_to_send_notification": "Ur yeddi ara ad yazen alɣu",
+  "failed_to_send_request": "Ur yeddi ara ad yazen asuter ɣer umefki.",
+  "failed_to_start_chat": "Ur yeddi ara ad yebda asqerdec",
+  "failed_to_submit_request": "Ur yeddi ara ad yazen asuter",
+  "failed_to_sync": "Ur yeddi ara ad yemtawi isefka",
+  "failed_to_sync_driver_data": "Ur yeddi ara ad yemtawi isefka n umefki",
+  "failed_to_update_location": "Ur yeddi ara ad yessnifel wadig",
+  "featureNotAvailable": "Tamahilt tura tettwasnef. Nesɛa ɣef tbedda n tadyant-a s zzerb!",
+  "featuredOffer": "Afray yettwassnen",
+  "features": "Tmahilin",
+  "feedback": "Awennit",
+  "feedbackSuccess": "Awennit-ik yettwazen s wudem. Tanemmirt ɣef talleɣt-ik!",
+  "fetching_location": "Tifin n wadig...",
+  "findYourRide": "Af asuter-ik",
+  "findingProvider": "Anadi n umefki",
+  "firstname": "Isem amezwaru",
+  "forgotPassword": "Tettuḍ asul n tkeṛṛust?",
+  "freeDiagnostic": "Asmekti baṭel",
+  "freeDiagnosticDesc": "Awi asmekti n tkeṛṛust baṭel di ddurt-a kan!",
+  "french": "Tafṛansist",
+  "fullName": "Isem ummid",
+  "fullNameOptional": "Isem ummid",
+  "fullRepairTitle": "Takerdis ummid",
+  "fullRepairType": "Takerdis ummid",
+  "fullWash": "Asuddes ummid",
+  "full_wash": "Asuddes ummid",
+  "gasStation": "Tiɣremt n usmel",
+  "gasStationDescription": "Asmel akked tamahilin n tɣerda",
+  "gasStationTitle": "Tiɣremt n usmel",
+  "gas_station_selected": "Tiɣremt n usmel tettwafren",
+  "gendarmerie": "Gendarmerie n tamurt",
+  "gendarmerieDescription": "Taɣellist-ik teɛna. Ma yella tadyant n uswurghu, tzemreḍ ad d-tesned srid neɣ ad tazneḍ alɣu neɣ izen s wadig-ik.",
+  "geoFireError": "Tuccḍa deg usbeddi n GeoFire.",
+  "glassRepairDescription": "Takerdis n yizri akked yizuran",
+  "glassRepairTitle": "Takerdis n yizuran",
+  "go_back": "Uɣal",
+  "goingToDestination": "Ɣef webrid ɣer wadig - Akud n tuwasin: ",
+  "guest": "Amenyaf",
+  "guides": "Amnaggar",
+  "help": "Talleɣt",
+  "helpDescription": "Yettban yella wacuɣer yid-k. Aɣ-d nesɛa iwakken ad k-neɣl!\nTzemreḍ ad aɣ-d-tesned s izen neɣ usned.",
+  "helpText": "Aḍris n talleɣt",
+  "hide_stores": "Ffer idkiren",
+  "highestRated": "Ay yeqqimen aṭas",
+  "home": "Asebter",
+  "hours_ago": "{count, plural, zero{0 n isragen} one{1 n usrag} other{{count} n isragen}}",
+  "howCanWeHelp": "Amek ara k-neɣl?",
+  "in_progress": "Yettwaseknay",
+  "info": "Talɣut",
+  "initializing_service": "Asbeddi n tamahilt...",
+  "interiorWash": "Asuddes n daxel",
+  "interior_wash": "Asuddes n daxel",
+  "invalidOtp": "Asul n usenqed ur yeddi ara",
+  "invalid_service_type": "Anaw n tamahilt ur yeddi ara",
+  "inviteFriend": "Seddu ameddukal",
+  "job": "Amasal",
+  "just_now": "Tura kan",
+  "keyProgrammingDescription": "Asers neɣ abeddel n tsarut n tkeṛṛust ɣef wadig",
+  "keyProgrammingTitle": "Asers n tsarut",
+  "km": "km",
+  "languageChanged": "Tutlayt tbeddel s wudem",
+  "lat": "Tasewwut",
+  "learnMore": "Issin ugar",
+  "like": "Smenyaf",
+  "likeError": "Tuccḍa deg usnifel n waddal n smenyaf",
+  "liked": "Yettusmenyaf s wudem",
+  "lng": "Tanzagt",
+  "loading": "Asali...",
+  "loadingAddress": "Asali n tansa...",
+  "loadingCarFixesTips": "Asali n tkerdis akked isalɣuyen n tkeṛṛust...",
+  "loadingPosts": "Asali n isemliyen...",
+  "loadingTutorials": "Asali n iselmaden...",
+  "loading_address": "Asali n tansa...",
+  "locating": "Anadi n wadig...",
+  "location": "Adig",
+  "locationDisabled": "Tamahilin n wadig ttwaxxamt. Ttxil-k sermed-iten iwakken ad tẓreḍ imefkiyen.",
+  "locationError": "Talɣut n wadig ulac-itt.",
+  "locationFetchError": "Ur yeddi ara ad d-yaf wadig.",
+  "locationFetchFailed": "Ur yeddi ara ad d-yaf wadig, ttxil-k ɛreḍ tikkelt-nniḍen",
+  "locationPermission": "Ttxil-k sermed turagt n wadig",
+  "locationPermissionDenied": "Turagt n wadig ilaq ad tettwasireg.",
+  "locationPermissionDeniedForever": "Turagt n wadig ttwager i lebda. Ttxil-k sermed-itt deg yiɣewwaren.",
+  "locationPermissionError": "Tuccḍa deg usenqed n turagt n wadig.",
+  "locationPermissionPermanentlyDenied": "Turagt n wadig ttwager i lebda.",
+  "locationPermissionRequired": "Turagt n wadig tettwasra i useqdec n tamahilt",
+  "locationServiceDisabled": "Tamahilin n wadig ttwaxxamt. Ttxil-k sermed-iten.",
+  "locationServicesDisabled": "Tamahilin n wadig ttwaxxamt. Ttxil-k sermed-iten.",
+  "location_denied": "Turagt n wadig ttwager. Ttxil-k sired asireg.",
+  "location_denied_forever": "Turagt n wadig ttwager i lebda. Ttxil-k sermed-itt deg yiɣewwaren.",
+  "location_disabled": "Tamahilin n wadig ttwaxxamt. Ttxil-k sermed-iten.",
+  "location_error": "Tuccḍa deg tifin n wadig. Ttxil-k ɛreḍ tikkelt-nniḍen.",
+  "location_fetch_failed": "Ur yeddi ara ad d-yaf wadig",
+  "location_permission_denied": "Turagt n wadig ttwager.",
+  "location_permission_denied_forever": "Turagt n wadig ttwager i lebda.",
+  "location_permission_denied_permanently": "Turagt n wadig ttwager i lebda",
+  "location_permission_error": "Tuccḍa n turagt n wadig",
+  "location_permission_required": "Turagt n wadig tettwasra",
+  "location_selection": "Afran n wadig",
+  "location_service_disabled": "Tamahilin n wadig ttwaxxamt",
+  "location_services_disabled": "Ttxil-k sermed tamahilin n wadig.",
+  "login": "Qqen",
+  "loginRequired": "Ttxil-k qqen iwakken ad tsumerḍ",
+  "logout": "Ffeɣ",
+  "logoutError": "Tuccḍa deg tuffɣa: @error",
+  "luxury": "Tɣerda",
+  "maintenanceCategory": "Taseqqi",
+  "map": "Akar",
+  "mapThemeError": "Ur yeddi ara ad d-yessali asentel n akartu.",
+  "map_label": "Akar yemmalen adig-ik akked imefkiyen yellan d asɣar",
+  "max_retries_reached": "Amḍan afellay n iɛraḍen yewweḍ i unadi.",
+  "mechanicServices": "Tamahilin n umekanik",
+  "menu": "Umuɣ",
+  "messageComingSoon": "Tamahilt n tuzzna n iznan tura tettwasnef, ad tili s zzerb. Tanemmirt ɣef tmusni yinek!",
+  "messageSent": "Izen yettwazen",
+  "messageSuccess": "Izen-ik yettwazen s wudem. Ad k-nermes s zzerb.",
+  "minutes_ago": "{count, plural, zero{0 n tisdatin} one{1 n tsdat} other{{count} n tisdatin}}",
+  "mobile_car_wash": "Asuddes n tkeṛṛust yettalin",
+  "mobile_car_wash_provider": "Amefki n usuddes n tkeṛṛust yettalin",
+  "more_info_hint": "Rnu ugar n telɣut",
+  "motorcycle": "Aṭaṭa",
+  "motorcycles": "Tiṭaṭin",
+  "name": "Isem",
+  "message":"message",
+  "nearby_gas_stations": "Tiɣremtin n usmel yellan d asɣar",
+  "new_message_body": "Izen amaynut seg",
+  "new_message_title": "Izen amaynut",
+  "new_request_at": "Amaynut",
+  "next": "Imal",
+  "no": "Ala",
+  "noAddressFound": "Ulac tansa i wadig-a",
+  "noCarFixesTips": "Ulac agbur i taggayt-a.",
+  "noDriversAvailable": "Ulac imefkiyen yellan",
+  "noInternetConnection": "Ulac tuqqna n uẓeṭṭa",
+  "noMatchingDriver": "Ulac amefki yemṣadan yettwafen",
+  "noMatchingProvider": "Ulac amefki yemṣadan yettwafen.",
+  "noPhone": "Ulac uṭṭun n usawal",
+  "noPosts": "Ulac isemliyen yellan",
+  "noProviderAvailable": "Ulac amefki yellan tura",
+  "noProvidersAvailable": "Ulac imefkiyen yellan tura",
+  "noProvidersNearby": "Ulac imefkiyen yellan d asɣar.",
+  "noServicesFound": "Ulac tamahilin yettwafen",
+  "noTutorials": "Ulac iselmaden i taggayt-a.",
+  "noVehicles": "Ulac tikeṛṛusin yettwafen",
+  "no_address": "Ulac tansa yettwafen",
+  "no_cached_providers": "Ulac imefkiyen yettwaskelsen i tamahilt-a.",
+  "no_chats_available": "Ulac isqerdacen yellan",
+  "no_driver_assigned": "Ulac amefki yettwafken yakan",
+  "no_drivers_available": "Ulac imefkiyen yellan d asɣar yid-k",
+  "no_gas_stations_available": "Ulac tiɣremtin n usmel yellan",
+  "no_provider_found": "Ulac amefki yettwafen",
+  "no_providers_available": "Ulac imefkiyen yellan",
+  "no_providers_available_offline": "Ulac imefkiyen yellan deg uskar war uẓeṭṭa",
+  "no_providers_for": "Ulac imefkiyen yellan i",
+  "no_providers_found": "Ulac imefkiyen yettwafen seld amḍan afellay n iɛraḍen.",
+  "no_providers_found_searching": "Ulac imefkiyen yettwafen. Kemmel anadi...",
+  "no_results_found": "Ulac igmaḍ yettwafen i unadi",
+  "no_stores_available": "Ulac idkiren yellan i tamahilt-a",
+  "not_available": "Ulac-it",
+  "not_specified": "Ur yettwasemmil ara",
+  "notificationSent": "Alɣu yettwazen ɣer imefkiyen yellan d asɣar",
+  "notification_failed": "Ur yeddi ara ad yazen alɣu ɣer umefki",
+  "notification_next_provider": "Anadi n umefki-nniḍen",
+  "notification_sent_success": "Anermes n umefki",
+  "notification_unavailable": "Alɣu ulac-it.",
+  "notifications_title": "Isawalen",
+  "offline_mode": "Askar war uẓeṭṭa",
+  "offline_providers_available": "Imefkiyen yellan (war uẓeṭṭa)",
+  "oilChange": "Abeddel n uzemmur",
+  "ok": "IH",
+  "or": "Neɣ",
+  "originAddress": "Tansa n wadig",
+  "otpRequestTooSoon": "Ttxil-k rǧu send ad tessutreḍ asul-nniḍen",
+  "otpSendFailed": "Ur yeddi ara ad yazen asul",
+  "otpSentSuccessfully": "Asul yettwazen s wudem",
+  "otpVerificationFailed": "Asenqed n asul ur yeddi ara",
+  "partName": "Isem n uḥric",
+  "partNameError": "Ttxil-k sekcem isem n uḥric",
+  "password": "Awal n tbaḍnit",
+  "phone": "Asawal",
+  "phoneNotAvailable": "Uṭṭun n usawal ulac-it",
+  "phoneNumber": "Uṭṭun n usawal",
+  "phoneVerifiedMessage": "Uṭṭun-ik n usawal yettwasenqed s wudem.",
+  "phoneVerifiedSuccessfully": "Asawal yettwasenqed s wudem",
+  "phone_not_available": "Uṭṭun n usawal ulac-it",
+  "pickupDate": "Azemz n usiɣel",
+  "pleaseEnterName": "Ttxil-k sekcem isem-ik",
+  "pleaseEnterValidPhone": "Ttxil-k sekcem uṭṭun n usawal yelhan",
+  "pleaseSelectRating": "Ttxil-k fren tazanfalt send ad tazedseḍ.",
+  "pleaseWait": "Ttxil-k rǧu cwiṭ",
+  "police": "Tadukli",
+  "policeDescription": "Taɣellist-ik teɛna. Ma yella tadyant n uswurghu, tzemreḍ ad d-tesned srid neɣ ad tazneḍ alɣu neɣ izen s wadig-ik.",
+  "popularProducts": "Tamahilin-nneɣ tigejdanin",
+  "popularServices": "Tamahilin-nneɣ tigejdanin",
+  "postDeleteError": "Tuccḍa deg usuppar n usemli",
+  "postDeleted": "Asemli yettwakkes s wudem",
+  "postUpdateError": "Tuccḍa deg usnifel n usemli",
+  "postUpdated": "Asemli yettusnifel s wudem",
+  "pothole_report_category": "Tadwawt",
+  "pothole_report_description": "Mmel tadwawt i tɣellist n webrid",
+  "powerfulTruck": "Tkamiyunt s tezmert",
+  "priceHighToLow": "Ssuma: seg uqqar ɣer ufiɣ",
+  "priceLowToHigh": "Ssuma: seg ufiɣ ɣer uqqar",
+  "pricePerDay": "Ssuma n yass",
+  "primaryServices": "Tamahilin tigejdanin",
+  "profile": "Amaɣnu",
+  "promotions": "Tifrayin",
+  "provider": "Amefki",
+  "providerArrived": "Amefki yewweḍ",
+  "providerOnWay": "Amefki ɣef webrid",
+  "provider_assigned": "Amefki yettwafek",
+  "provider_assigned_body": "Amefki",
+  "provider_declined": "Imefkiyen werglen asuter. Anadi n imefkiyen-nniḍen...",
+  "provider_details": "Talɣut n umefki",
+  "provider_location": "Adig n umefki",
+  "provider_no_service": "Amefki ur yettmudd ara tamahilt-a",
+  "provider_not_found": "Amefki ur yettwaf ara deg isefka yettwaskelsen",
+  "provider_notification_unavailable": "Amefki",
+  "provider_on_way": "Amefki ɣef webrid",
+  "provider_timeout": "Imefkiyen ur seddlen ara. Anadi n imefkiyen-nniḍen...",
+  "providers": "Imefkiyen",
+  "providers_declined": "Imefkiyen werglen. Anadi n imefkiyen-nniḍen...",
+  "providers_no_response": "Imefkiyen ur seddlen ara. Anadi n imefkiyen-nniḍen...",
+  "reachingTimeError": "Tuccḍa deg usnifel n wakud n tuwasin ɣer wadig.",
+  "refresh": "Sismeɣ",
+  "register": "Jerred",
+  "rentVehicles": "Ssekker tikeṛṛusin",
+  "repairCategory": "Takerdis",
+  "report_category": "Mudd afus i tkerdis n webrid s zzerb s usmellel n wuguren",
+  "report_pothole": "Mmel tadwawt",
+  "reports_label": "Ismellen",
+  "requestCarWash": "Suter asuddes n tkeṛṛust",
+  "requestDelivery": "Suter walaf",
+  "requestError": "Ur yeddi ara ad yekles asuter.",
+  "requestPickup": "Suter asiɣel",
+  "requestSent": "Asuter yettwazen ɣer umefki.",
+  "requestService": "Suter tamahilt",
+  "requestSubmitted": "Asuter yettwazen",
+  "request_accepted": "Asuter yettwaqbel sɣur umefki!",
+  "request_accepted_body": "Asuter-ik yettwaqbel sɣur",
+  "request_accepted_title": "Asuter yettwaqbel",
+  "request_at": "Yettwasuter di",
+  "request_cancelled": "Asuter yettusefsex.",
+  "request_cancelled_message": "Asuter n tamahilt yettusefsex",
+  "request_delivery": "Suter walaf",
+  "request_details": "Talɣut n usuter",
+  "request_details_error": "Ttxil-k mudd talɣut n usuter",
+  "request_pickup": "Suter asiɣel",
+  "request_queued": "Asuter yettwasken i tuzzna mi ara yili uẓeṭṭa",
+  "request_service": "Suter tamahilt",
+  "request_service_button": "Tqeffalt n usuter n tamahilt",
+  "request_stored": "Asuter yettwaskeles i",
+  "request_timeout": "Asuter yewweḍ wakud",
+  "request_type": "Anaw n usuter",
+  "resendCode": "Ales tuzzna n usul",
+  "resendInSeconds": "Ales tuzzna deg {seconds} n tisdatin",
+  "retry": "Ɛreḍ tikkelt-nniḍen",
+  "retry_connection_button": "Tqeffalt n uɛraḍ n tuqqna",
+  "retrying_location": "Aɛraḍ n tifin n wadig...",
+  "returnDate": "Azemz n tuzzna",
+  "reviews": "Awenniten",
+  "ride_cancelled_or_ended": "Asuter yettusefsex neɣ yemmed",
+  "ride_info_not_found": "Isefka n usuter ulac-iten",
+  "ride_status_updated": "Addal n usuter yettusnifel",
+  "road_issue_report_title": "Mmel tadwawt",
+  "roadsideAssistance": "Talleɣt n webrid",
+  "routineMaintenanceDescription": "Tamahilin n taseqqi n tkeṛṛust s wudem asertan",
+  "routineMaintenanceTitle": "Taseqqi n tkeṛṛust",
+  "save": "Sekles",
+  "saveData": "Sekles asuter",
+  "savedInformation": "Talɣut yettwaskelsen",
+  "schedule_date": "Azemz n users",
+  "schedule_date_error": "Ttxil-k fren azemz",
+  "schedule_time": "Akud n users",
+  "schedule_time_error": "Ttxil-k fren akud",
+  "scheduled": "Yettusres",
+  "search": "Nadi",
+  "searchAgain": "Ttxil-k ɛreḍ tikkelt-nniḍen",
+  "searchServices": "Nadi tamahilin",
+  "searchVehicles": "Nadi tikeṛṛusin",
+  "search_continued": "Kemmel anadi n imefkiyen...",
+  "search_error": "Tuccḍa deg unadi n imefkiyen",
+  "search_error_try_again": "Tuccḍa n unadi. Ttxil-k ɛreḍ tikkelt-nniḍen.",
+  "search_location": "Nadi wadig",
+  "searchingForProvider": "Anadi n umefki",
+  "searching_for": "Anadi i",
+  "searching_for_another_driver": "Anadi n umefki-nniḍen...",
+  "searching_for_driver": "Anadi n umefki...",
+  "searching_for_provider": "Anadi n umefki",
+  "searching_offline": "Anadi war uẓeṭṭa...",
+  "secondaryServices": "Tamahilin tisnatin",
+  "seeMore": "Ẓer ugar",
+  "select": "Fren",
+  "selectDate": "Fren azemz",
+  "selectLocationFirst": "Ttxil-k fren wadig d amezwaru",
+  "selectNumber": "Fren uṭṭun i usned:",
+  "selectService": "Ttxil-k fren tamahilt.",
+  "selectServicePrompt": "Ttxil-k fren tamahilt",
+  "selectVehicleType": "Fren anaw n tkeṛṛust",
+  "select_gas_station": "Fren",
+  "select_location_first": "Ttxil-k fren wadig d amezwaru.",
+  "select_provider_to_contact": "Fren amefki i unermes srid",
+  "selfDrive": "Imẓerbeḍ iman-ik",
+  "send": "Azen",
+  "sendAlert": "Tebɣiḍ s tidett ad tazneḍ alɣu?",
+  "sendVerificationCode": "Azen asul n usenqed",
+  "service": "Tamahilt",
+  "serviceCategories": "Tamahilin n uswurghu",
+  "serviceDescription": "Asiɣel n tkeṛṛust ɣer wadig i tebɣiḍ",
+  "serviceTypeError": "Ttxil-k fren anaw n tamahilt",
+  "service_description": "Suter tamahilt-a ɣer wadig-ik",
+  "service_not_available": "Tamahilt ulac-itt",
+  "service_not_available_message": "Tamahilt-a tura deg taseqqi. Ttxil-k ɛreḍ tikkelt-nniḍen.",
+  "service_provider": "Amefki n tamahilt",
+  "service_type": "Anaw n tamahilt",
+  "services": "Tamahilin",
+  "servicesCount": "{count, plural, zero{Ulac tamahilin yellan} one{1 tamahilt yella} other{{count} tamahilin yellan}}",
+  "setLocationButton": "Sers adig",
+  "settings": "Iɣewwaren",
+  "severity_high": "Ameqran",
+  "share": "Bḍu",
+  "shareError": "Tuccḍa deg ubḍu n usemli",
+  "sharePostText": "Wali asemli-a yelhan!",
+  "shopNow": "Sɣer tura",
+  "show_stores": "Sken idkiren",
+  "signIn": "Qqen",
+  "sort_by_distance": "Szem n umeccaq",
+  "sort_by_name": "Szem s yisem",
+  "sort_providers": "Szem imefkiyen",
+  "sparePartsDescription": "Iḥricen n tkeṛṛust s tɣerda tameqqrant",
+  "sparePartsTitle": "Iḥricen n tkeṛṛust",
+  "sparePartsType": "Asnuz n iḥricen",
+  "specialOffers": "Tifrayin tuzzigin",
+  "sportyMotorcycle": "Aṭaṭa n tnezri",
+  "stationary_car_wash": "Asuddes n tkeṛṛust yezdin",
+  "status": "Addal",
+  "store": "Adukan",
+  "store_service_description": "Fren adukan neɣ fren walaf i yir tmahilin-ik",
+  "submit": "Azen asmel",
+  "subscribe": "Sumer",
+  "subscribed": "Asumer yedda s wudem",
+  "subscriptionError": "Tuccḍa deg usnifel n waddal n usumer",
+  "success": "Yedda!",
+  "support": "Talleɣt",
+  "suv": "SUV",
+  "tags": "Ticraḍ",
+  "tags_hint": "Sekcem ticraḍ, yettwafṣalen s tisarif (amedya: #takerdis_tkeṛṛust, #taseqqi)",
+  "take_photo": "Ṭṭef tawlaft",
+  "taxDisclaimer": "Ssuma yezmer ur yettwasern ara ad tmeslay ɣef tadyattin",
+  "termsAndConditions": "S uqbel n ukemmel, tqebleḍ tiwtilin-nneɣ.",
+  "testimonial1": "Tamahilt yelhan! Tkeṛṛust-iw tettwakerdes s zzerb.",
+  "testimonial2": "Yettwamanen akked ssuma yelhan. Aɣ-d yettusummer aṭas!",
+  "testimonials": "Awenniten",
+  "text": "Izen",
+  "thankYou": "Tanemmirt",
+  "thankYouPatience": "Tanemmirt ɣef tmusni yinek!",
+  "time": "Akud",
+  "timeoutError": "Asuter yewweḍ wakud. Ttxil-k senqed tuqqna tikkelt-nniḍen.",
+  "tireRepair": "Takerdis n ukerdis",
+  "tireRepairDescription": "Takerdis n ukerdis ɣef wadig",
+  "tireRepairTitle": "Takerdis n ukerdis",
+  "title": "Azwel",
+  "totalFor": "Amḍan i",
+  "towTruckDescription": "Asiɣel n tkeṛṛust ɣer wadig i tebɣiḍ",
+  "towTruckTitle": "Tamahilt n usiɣel",
+  "towTruckType": "Tkamiyunt n usiɣel",
+  "towingService": "Tamahilt n usiɣel",
+  "trip_cancelled_or_ended": "Asuter yettusefsex neɣ yemmed",
+  "trip_in_progress": "Tamahilt tetteddu",
+  "truck": "Tkamiyunt",
+  "trucks": "Tikamiyunin",
+  "tryDifferentCityOrDate": "Ɛreḍ tamdint neɣ azemz-nniḍen!",
+  "tryDifferentDate": "Ɛreḍ azemz-nniḍen",
+  "tutorials": "Iselmaden",
+  "type_message": "Azen izen",
+  "unable_to_create_request": "Ur yezmir ara ad yernu asuter. Ttxil-k ɛreḍ tikkelt-nniḍen.",
+  "unable_to_get_location": "Ur yezmir ara ad d-yaf wadig. Aseqdec n wadig amezwaru.",
+  "understood": "Ttwafhem",
+  "unknown": "Ur yettwassn ara",
+  "unknownAddress": "Tansa ur tessen ara",
+  "unknownLocation": "Ur yettwassn ara",
+  "unknownNumber": "Uṭṭun ur yettwassn ara",
+  "unknownService": "Tamahilt ur tessen ara",
+  "unknown_location": "Adig ur yettwassn ara",
+  "unlike": "Kkes smenyaf",
+  "unliked": "Smenyaf yettwakkes s wudem",
+  "unspecified": "Ur yettwasemmil ara",
+  "unsubscribe": "Sefsex asumer",
+  "unsubscribed": "Asumer yettusefsex s wudem",
+  "upload_failed": "Ur yeddi ara ad d-yessali tawlaft",
+  "urgent": "Asmug",
+  "urgent_request": "Asuter n usmug",
+  "urlError": "Ur yezmir ara ad yeldi agbur. Ttxil-k ɛreḍ tikkelt-nniḍen.",
+  "user1": "Yiwen Amdan",
+  "user2": "Tawent Tamdan",
+  "userInfoError": "Ur yeddi ara ad d-yaf talɣut n useqdac.",
+  "userLocationFetchFailed": "Ur yeddi ara ad d-yaf isefka n useqdac neɣ wadig",
+  "username": "Isem n useqdac",
+  "vehicle": "Tkeṛṛust",
+  "vehicleBrand": "Tizdit n tkeṛṛust",
+  "vehicleBrandError": "Ttxil-k sekcem tizdit n tkeṛṛust",
+  "vehicleType": "Anaw n tkeṛṛust",
+  "vehicleTypeError": "Ttxil-k fren anaw n tkeṛṛust",
+  "verificationCode": "Asul n usenqed",
+  "verificationFailed": "Asenqed ur yeddi ara: {error}",
+  "videos": "Tividyutin",
+  "viewAll": "Ẓer akk",
+  "views": "{count, plural, zero{0 n tmuqqlin} one{1 n tmuqli} other{{count} n tmuqqlin}}",
+  "waiting": "Arǧu",
+  "waiting_for_confirmation": "Asuter-ik yettwazen, ttxil-k rǧu asenqed n umefki",
+  "washType": "Anaw n usuddes",
+  "washTypeError": "Ttxil-k fren anaw n usuddes",
+  "wash_type": "Anaw n usuddes",
+  "wash_type_error": "Ttxil-k fren anaw n usuddes",
+  "weAreComing": "Nettwas-d",
+  "weAreHereToHelp": "Nettwas-d iwakken ad k-neɣl",
+  "welcome": "Ansuf",
+  "wheelChangeDescription": "Takerdis neɣ abeddel n ukerdis ɣef wadig",
+  "wheelChangeTitle": "Abeddel neɣ takerdis n ukerdis",
+  "wheelChangeType": "Abeddel n ukerdis",
+  "whoWeAre": "Anwa-aɣ",
+  "willContact": "Ad k-nermes s zzerb akked talɣut n tamahilt",
+  "withDriver": "Akken amefki",
+  "writeHere": "Aru dagi",
+  "year": "Aseggas",
+  "yes": "Ih",
+  "yourLocation": "Fren adig",
+  "yourOpinionMatters": "Awenni-ik yehwa, ttxil-k bḍu-t.",
+  "your_location": "Adig-ik",
+  "zoom_in": "Ssemɣer",
+  "zoom_out": "Ssenɣes",
+  "openMenu": "ⴰⵣⵎⵎⴰⵎ",
+"@openMenu": { "description": "Label for opening the navigation menu" },
+"greetingPersonal": "Azul {userName}",
+  "@greetingPersonal": {
+    "description": "Personalized greeting with the user's name",
+    "placeholders": {
+      "userName": {}
+    }
+  },
+  "view_providers": "Wali imefkan yettwaskelsen",
+  "@view_providers": {
+    "description": "Amawal i tqeffalt iwakken ad twalid imefkan yettwaskelsen deg uskar aruẓmi."
+  },
+  "cached_providers": "Imefkan yettwaskelsen",
+  "@cached_providers": {
+    "description": "Azwel n teftilt tanaddayt i d-yesskanen imefkan yettwaskelsen."
+  },
+  "offline_request_not_allowed": "Ur yezmir ara ad-yazen asuter deg uskar aruẓmi. Wali imefkan yettwaskelsen deg umḍiq.",
+  "@offline_request_not_allowed": {
+    "description": "Amawal n tuccḍa yettwaseknen mi yessekyed useqdac asuter deg uskar aruẓmi."
+  },
+  "no_cached_providers_available": "Ulac imefkan yettwaskelsen yellan.",
+  "@no_cached_providers_available": {
+    "description": "Amawal yettwaseknen mi ulac imefkan yettwaskelsen yellan deg uskar aruẓmi."
+  },
+  "checkingNetwork": "Yettwasenqed tuqqna n usnefet...",
+  "loadingCachedData": "Yettwasali isefka yettwaskelsen...",
+  "trip_ended": "Tirza Tewwiḍ",
+  "@trip_ended": {
+    "description": "Azwel n usiɣel n toast mi yewwiḍ urar."
+  },
+  "error_invalid_coordinates": "Isebdanen ur nelli d ameɣtu",
+  "@error_invalid_coordinates": {
+    "description": "Izen n unezri mi d-yettunefk isebdanen ur nelli d ameɣtu."
+  },
+  "error_api_key_missing": "Tasarut API ulac-itt",
+  "@error_api_key_missing": {
+    "description": "Izen n unezri mi tasarut API Google Maps ur yettuswel ara."
+  },
+  "error_fetching_directions": "Ur yeddi ara ad d-yerr isniɣiyen",
+  "@error_fetching_directions": {
+    "description": "Izen n unezri mi yexser asali n isniɣiyen."
+  },
+  "trip_ended_message": "Tirza-inek/tiyita tɛedda. Ttxil-k/m sɛan amek yif-it ad tsedduḍ amḍiq ɣef uxxam.",
+  "@trip_ended_message": {
+    "description": "Aglam n usiɣel n toast mi yewwiḍ urar."
+  },
+  "rate_service": "Sɛed Amḍiq ɣef Uxxam",
+  "@rate_service": {
+    "description": "Azwel n tsaqqart n ussaddin n urar."
+  },
+  "comments_optional": "Iwenniten (D axettar)",
+  "@comments_optional": {
+    "description": "Tibzimin ay d-yemmalen belli iwenniten d axettar deg tsaqqart n ussaddin."
+  },
+  "enter_comments": "Sekcem iwenniten-ik/inem dagi",
+  "@enter_comments": {
+    "description": "Aḍris n usenɣel n uḍa n iwenniten deg tsaqqart n ussaddin."
+  },
+  "rating_submitted": "Amḍiq Yettwazen",
+  "@rating_submitted": {
+    "description": "Azwel n usiɣel n toast n targit ticki yettwazen amḍiq."
+  },
+  "rating_submitted_message": "Tanemmirt ɣef iwenniten-ik/inem!",
+  "@rating_submitted_message": {
+    "description": "Aglam n usiɣel n toast n targit ticki yettwazen amḍiq."
+  },
+  "error_submitting_rating": "Amḍiq ur yettwazen ara. Ttxil-k/m ɛreḍ tikkelt-nniḍen.",
+  "@error_submitting_rating": {
+    "description": "Aḍris n unezri mi ur yettwazen ara amḍiq."
+  },
+  "chat_synced": "Adiwan Yemtawi",
+  "@chat_synced": {
+    "description": "Azwel n usiɣel n toast n targit ticki yemtawi adiwan yetturaǧun."
+  },
+  "chat_synced_message": "Adiwan-inek/inem yemtawi akken iwata.",
+  "@chat_synced_message": {
+    "description": "Aglam n usiɣel n toast n targit ticki yemtawi adiwan yetturaǧun."
+  },
+  "trip_cancelled": "Tirza Tewwi",
+  "@trip_cancelled": {
+    "description": "Azwel n usiɣel n toast mi ttwawwi urar."
+  },
+  "trip_cancelled_message": "Tirza-inek/tiyita tewwi.",
+  "@trip_cancelled_message": {
+    "description": "Aglam n usiɣel n toast mi ttwawwi urar."
+  },
+  "call_initiated": "Asiwel Yebdɛen",
+  "@call_initiated": {
+    "description": "Azwel n usiɣel n toast n targit ticki yebdɛen asiwel n tiliɣri."
+  },
+  "call_initiated_message": "Aql-ak/am tettedduḍ ad tessiwleḍ ɣer umazan n uxxam.",
+  "@call_initiated_message": {
+    "description": "Aglam n usiɣel n toast n targit ticki yebdɛen asiwel n tiliɣri."
+  },
+    "rating_submitted": "Tazmilt tettwaserkeb s wafaɣ",
+  "rating_queued": "Tazmilt tettwasnuff, ad ttwaseɣser mi yettwaqqen s internet",
+  "no_ratings": "Ulac tazmilt yakan",
+  "failed_to_submit_rating": "Tira n tazmilt ur teddi ara",
+  "greetingAvailability": "Anda tella, nekni da",
+  "invalidPhoneNumber": "Uṭṭun n tilifun d arameɣtu. Ttxil-k ɛreḍ tikkelt-nniḍen.",
+  "tooManyRequests": "Aṭas n yissuturen. Ttxil-k rǧu qbel ad tɛerḍeḍ tikkelt-nniḍen.",
+  "otpExpired": "Tangalt n usekyed temmut. Ttxil-k ssuter tangalt tamaynut.",
+  "greetingSupport": "Aɣ-d-mudd af as-nerr ayen yellan",
+  "marketingSlogan": "Tḥebset anda tella? Rana Jayeen yettak-d tallalt s zuk.",
+  "noInternetConnectionWithCache": "Ulac tuqqna internet. Seqdec askar ur yettwaqqen d yisefka yettwaskelsen yakan neɣ ɛreḍ tikkelt-nniḍen mi ara tseqdaceḍ tuqqna.",
+  "useOffline": "Seqdec ur yettwaqqen",
+  "dataSynced": "Isefka-inek ttwaleqqmen.",
+  "syncFailed": "Yecceḍ uleqqem n yisefka. Ma ulac aɣilif, ɛreḍ tikkelt-nniḍen."
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "firebase-admin": "^12.7.0",
+    "firebase-functions": "^6.4.0",
+    "twilio": "^5.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.33.0",
+    "eslint-config-google": "^0.14.0",
+    "firebase-functions-test": "^3.4.1"
+  }
+}

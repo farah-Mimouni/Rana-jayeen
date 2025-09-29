@@ -1,0 +1,1372 @@
+{
+  "@@locale": "en",
+  "@locationPermissionMessage": {
+    "description": "Message requesting location access permission"
+  },
+  "@allow": {
+    "description": "Text for the allow permission button"
+  },
+  "@goToLogin": {
+    "description": "Text for the button to navigate to the login screen after maximum attempts"
+  },
+  "@serverTimeout": {
+    "description": "Error message for server timeout during authentication check"
+  },
+  "@authError": {
+    "description": "Generic error message for authentication failure"
+  },
+  "@checkingLoginStatus": {
+    "description": "Text displayed on the loading screen during authentication check"
+  },
+  "@welcome1Title": {
+    "description": "Title for the first screen in the app introduction"
+  },
+  "@welcome1Desc": {
+    "description": "Description for the first screen in the app introduction"
+  },
+  "@welcome2Title": {
+    "description": "Title for the second screen in the app introduction"
+  },
+  "@welcome2Desc": {
+    "description": "Description for the second screen in the app introduction"
+  },
+  "@welcome3Title": {
+    "description": "Title for the third screen in the app introduction"
+  },
+  "@welcome3Desc": {
+    "description": "Description for the third screen in the app introduction"
+  },
+  "@welcome4Title": {
+    "description": "Title for the fourth screen in the app introduction"
+  },
+  "@welcome4Desc": {
+    "description": "Description for the fourth screen in the app introduction"
+  },
+  "@continueButton": {
+    "description": "Text for the continue button"
+  },
+  "@nextButton": {
+    "description": "Text for the next button"
+  },
+  "@skipButton": {
+    "description": "Text for the skip button"
+  },
+  "@anonymous_user": {
+    "description": "Label for an anonymous user"
+  },
+  "@no_chats_found": {
+    "description": "Message when no chats are found"
+  },
+  "@message_queued": {
+    "description": "Message when a message is queued"
+  },
+  "locationPermissionMessage": "Please allow location access to find nearby service providers",
+  "allow": "Allow",
+  "goToLogin": "Go to Login",
+  "serverTimeout": "The server took too long to respond.",
+  "authError": "Failed to verify login. Try again.",
+  "checkingLoginStatus": "Checking login status...",
+  "welcome1Title": "Smart Assistance",
+  "welcome1Desc": "A smart app that helps you fix \nvehicle breakdowns",
+  "welcome2Title": "Expert Technicians",
+  "welcome2Desc": "We provide the most experienced \nand nearest technicians to get you out of trouble",
+  "welcome3Title": "Additional Services",
+  "welcome3Desc": "You can also benefit from our additional services \nlike reporting and car rental...",
+  "welcome4Title": "24/7 Support",
+  "welcome4Desc": "We are with you wherever you are \nIf you want to save time and money, choose us",
+  "continueButton": "Continue",
+  "nextButton": "Next",
+  "skipButton": "Skip",
+  "anonymous_user": "Anonymous User",
+  "no_chats_found": "No chats found",
+  "message_queued": "Message queued",
+  "@add_from_gallery": {
+    "description": "Button label for adding image from gallery",
+    "type": "text"
+  },
+  "@additional_info": {
+    "description": "Label for additional information input field",
+    "type": "text"
+  },
+  "@address_error": {
+    "description": "Error message for address fetching failure",
+    "type": "text"
+  },
+  "@allServices": {
+    "description": "Title for all services page"
+  },
+  "@appLogo": {
+    "description": "Accessibility label for the app logo image"
+  },
+  "@appointmentTime": {
+    "description": "Label for the appointment time selection"
+  },
+  "@appointmentTimeError": {
+    "description": "Error message for missing appointment time selection"
+  },
+  "@appointment_booked": {
+    "description": "Message shown when an appointment is booked"
+  },
+  "@back": {
+    "description": "Label for back button"
+  },
+  "@batteryChargeDescription": {
+    "description": "Description for battery charge service"
+  },
+  "@batteryChargeTitle": {
+    "description": "Title for battery charge service"
+  },
+  "@bookingConfirmed": {
+    "description": "Message shown when a booking is confirmed"
+  },
+  "@bookingSummary": {
+    "description": "Title for booking summary section"
+  },
+  "@call": {
+    "description": "Label for the call button"
+  },
+  "@carACServiceDescription": {
+    "description": "Description for car AC service"
+  },
+  "@carACServiceTitle": {
+    "description": "Title for car AC service"
+  },
+  "@carElectricianDescription": {
+    "description": "Description for car electrician service"
+  },
+  "@carElectricianTitle": {
+    "description": "Title for car electrician service"
+  },
+  "@carInspectionDescription": {
+    "description": "Description for car inspection service"
+  },
+  "@carInspectionTitle": {
+    "description": "Title for car inspection service"
+  },
+  "@carMechanicDescription": {
+    "description": "Description for car mechanic service"
+  },
+  "@carMechanicTitle": {
+    "description": "Title for car mechanic service"
+  },
+  "@carWash": {
+    "description": "Title for the car wash service page"
+  },
+  "@changePhoneNumber": {
+    "description": "Label for change phone number button"
+  },
+  "@change_address": {
+    "description": "Label for the change address button"
+  },
+  "@chat_initiated": {
+    "description": "Message shown when a chat is initiated for a specific service",
+    "placeholders": {
+      "serviceTitle": {}
+    }
+  },
+  "@completeRegistrationMessage": {
+    "description": "Message for complete registration screen"
+  },
+  "@confirmCode": {
+    "description": "Label for confirm OTP button"
+  },
+  "@confirmVerificationCode": {
+    "description": "Title for OTP verification screen"
+  },
+  "@dateError": {
+    "description": "Error message for missing date selection"
+  },
+  "@dateOfWash": {
+    "description": "Label for the date of wash selection"
+  },
+  "@days": {
+    "description": "Label for number of days in booking"
+  },
+  "@days_ago": {
+    "description": "Format for days ago",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@description": {
+    "description": "Label for the description input field"
+  },
+  "@driverIncluded": {
+    "description": "Subtitle when with driver is selected"
+  },
+  "@empty_field_error": {
+    "description": "Error message for empty form field",
+    "type": "text"
+  },
+  "@enterCodeSentTo": {
+    "description": "Message for OTP input, showing phone number",
+    "placeholders": {
+      "phoneNumber": {
+        "description": "The phone number the OTP was sent to"
+      }
+    }
+  },
+  "@enterValidOtp": {
+    "description": "Error message for invalid OTP"
+  },
+  "@enterYourName": {
+    "description": "Hint for name input"
+  },
+  "@error_fetching_provider": {
+    "description": "Error message when fetching provider details fails"
+  },
+  "@error_fetching_stores": {
+    "description": "Error message when fetching stores fails"
+  },
+  "@error_location_denied": {
+    "description": "Error message when location permission is denied"
+  },
+  "@error_location_denied_forever": {
+    "description": "Error message when location permission is permanently denied"
+  },
+  "@error_location_disabled": {
+    "description": "Error message when location services are disabled"
+  },
+  "@error_location_failed": {
+    "description": "Error message when location retrieval fails",
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@error_message_fetch_failed": {
+    "description": "Error message when fetching messages from the database fails"
+  },
+  "@error_message_send_failed": {
+    "description": "Error message when sending a message to the database fails"
+  },
+  "@error_phone_call": {
+    "description": "Error message when making a phone call fails"
+  },
+  "@error_request_failed": {
+    "description": "Error message when request submission fails",
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@error_request_status": {
+    "description": "Error message when listening to request status fails",
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@error_search_failed": {
+    "description": "Error message when provider search fails",
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "@error_user_location": {
+    "description": "Error message when user location is unavailable"
+  },
+  "@exteriorWash": {
+    "description": "Option for exterior car wash"
+  },
+  "@features": {
+    "description": "Label for vehicle features section"
+  },
+  "@findYourRide": {
+    "description": "Header for search card"
+  },
+  "@fullName": {
+    "description": "Label for full name field"
+  },
+  "@fullNameOptional": {
+    "description": "Label for full name input"
+  },
+  "@fullWash": {
+    "description": "Option for full car wash (exterior and interior)"
+  },
+  "@hours_ago": {
+    "description": "Format for hours ago",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@interiorWash": {
+    "description": "Option for interior car wash"
+  },
+  "@keyProgrammingDescription": {
+    "description": "Description for key programming service"
+  },
+  "@keyProgrammingTitle": {
+    "description": "Title for key programming service"
+  },
+  "@km": {
+    "description": "Unit for kilometers"
+  },
+  "@languageChanged": {
+    "description": "Confirmation message shown when language is changed"
+  },
+  "@loading_address": {
+    "description": "Message shown while loading the user's address"
+  },
+  "@locating": {
+    "description": "Message shown while fetching location",
+    "type": "text"
+  },
+  "@location_denied": {
+    "description": "Error message when location permission is denied",
+    "type": "text"
+  },
+  "@location_denied_forever": {
+    "description": "Error message when location permission is permanently denied",
+    "type": "text"
+  },
+  "@location_disabled": {
+    "description": "Error message when location services are disabled",
+    "type": "text"
+  },
+  "@location_error": {
+    "description": "Error message for location fetching failure",
+    "type": "text"
+  },
+  "@luxury": {
+    "description": "Label for luxury category"
+  },
+  "@minutes_ago": {
+    "description": "Format for minutes ago",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@mobile_car_wash": {
+    "description": "Option for mobile car wash service"
+  },
+  "@mobile_car_wash_provider": {
+    "description": "Label for mobile car wash provider"
+  },
+  "@no": {
+    "description": "Negative response for with driver toggle"
+  },
+  "@noInternetConnection": {
+    "description": "Error message for no internet connection"
+  },
+  "@no_provider_found": {
+    "description": "Message shown when no provider is found"
+  },
+  "@no_providers_available": {
+    "description": "Message shown when no providers are available"
+  },
+  "@no_stores_available": {
+    "description": "Message shown when no stores are available"
+  },
+  "@otpRequestTooSoon": {
+    "description": "Error message for OTP request too soon"
+  },
+  "@otpSendFailed": {
+    "description": "Error message for OTP send failure"
+  },
+  "@otpSentSuccessfully": {
+    "description": "Success message for OTP sent"
+  },
+  "@otpVerificationFailed": {
+    "description": "Error message for OTP verification failure"
+  },
+  "@phoneNumber": {
+    "description": "Label for phone number input"
+  },
+  "@phoneVerifiedSuccessfully": {
+    "description": "Success message for phone verification"
+  },
+  "@phone_not_available": {
+    "description": "Message shown when provider phone number is not available"
+  },
+  "@pleaseEnterName": {
+    "description": "Error message for empty name"
+  },
+  "@pleaseEnterValidPhone": {
+    "description": "Error message for invalid phone number"
+  },
+  "@popularServices": {
+    "description": "Title for popular services section"
+  },
+  "@pothole_report_category": {
+    "description": "Category name for pothole reports",
+    "type": "text"
+  },
+  "@pothole_report_description": {
+    "description": "Description for pothole reporting card",
+    "type": "text"
+  },
+  "@provider": {
+    "description": "Label for provider in booking summary"
+  },
+  "@report_pothole": {
+    "description": "Title for the pothole reporting screen",
+    "type": "text"
+  },
+  "@reports_label": {
+    "description": "Label for the number of reports",
+    "type": "text"
+  },
+  "@request_accepted": {
+    "description": "Message shown when the request is accepted"
+  },
+  "@request_timeout": {
+    "description": "Message shown when the request times out"
+  },
+  "@request_type": {},
+  "@resendCode": {
+    "description": "Label for resend OTP button"
+  },
+  "@resendInSeconds": {
+    "description": "Label for resend OTP timer",
+    "placeholders": {
+      "seconds": {
+        "description": "Number of seconds remaining"
+      }
+    }
+  },
+  "@reviews": {
+    "description": "Label for review count"
+  },
+  "@road_issue_report_title": {
+    "description": "Title for the pothole reporting section",
+    "type": "text"
+  },
+  "@scheduled": {},
+  "@searching_for_provider": {
+    "description": "Message shown while searching for a service provider"
+  },
+  "@seeMore": {
+    "description": "Button text to see more services"
+  },
+  "@selfDrive": {
+    "description": "Subtitle when with driver is not selected"
+  },
+  "@sendVerificationCode": {
+    "description": "Label for send OTP button"
+  },
+  "@serviceTypeError": {
+    "description": "Error message for missing service type selection"
+  },
+  "@service_not_available": {
+    "description": "Message shown when the service is unavailable",
+    "type": "text"
+  },
+  "@service_not_available_message": {
+    "description": "Additional message explaining service unavailability",
+    "type": "text"
+  },
+  "@service_type": {
+    "description": "Label for the service type selection"
+  },
+  "@services": {
+    "description": "Label for services offered by a store or provider"
+  },
+  "@severity_high": {
+    "description": "Label for high severity level",
+    "type": "text"
+  },
+  "@signIn": {
+    "description": "Title for sign in screen"
+  },
+  "@stationary_car_wash": {
+    "description": "Option for stationary car wash service"
+  },
+  "@store": {
+    "description": "Label for a car wash store"
+  },
+  "@submit": {
+    "description": "Button label for submitting the report",
+    "type": "text"
+  },
+  "@suv": {
+    "description": "Label for SUV category"
+  },
+  "@take_photo": {
+    "description": "Button label for taking a photo",
+    "type": "text"
+  },
+  "@taxDisclaimer": {
+    "description": "Disclaimer about taxes for bookings"
+  },
+  "@termsAndConditions": {
+    "description": "Text for terms and conditions agreement"
+  },
+  "@totalFor": {
+    "description": "Label for total price duration"
+  },
+  "@towTruckDescription": {
+    "description": "Description for towing service"
+  },
+  "@towTruckTitle": {
+    "description": "Title for towing service"
+  },
+  "@unknown": {
+    "description": "Fallback for unknown values"
+  },
+  "@unknownNumber": {
+    "description": "Fallback text when phone number is unavailable"
+  },
+  "@unknown_location": {
+    "description": "Fallback for unknown location"
+  },
+  "@unspecified": {
+    "description": "Fallback for unspecified values"
+  },
+  "@urgent": {},
+  "@urgent_request": {
+    "description": "Label for urgent request checkbox"
+  },
+  "@vehicle": {
+    "description": "Label for vehicle in booking summary"
+  },
+  "@vehicleBrand": {
+    "description": "Label for the vehicle brand input field"
+  },
+  "@vehicleBrandError": {
+    "description": "Error message for missing vehicle brand"
+  },
+  "@verificationCode": {
+    "description": "Label for OTP input"
+  },
+  "@views": {
+    "description": "Format for view count",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "@waiting_for_confirmation": {
+    "description": "Message shown while waiting for provider confirmation"
+  },
+  "@washType": {
+    "description": "Label for the car wash type selection"
+  },
+  "@washTypeError": {
+    "description": "Error message for missing wash type selection"
+  },
+  "@wheelChangeDescription": {
+    "description": "Description for wheel change service"
+  },
+  "@wheelChangeTitle": {
+    "description": "Title for wheel change service"
+  },
+  "@yes": {
+    "description": "Affirmative response for with driver toggle"
+  },
+  "@your_location": {
+    "description": "Label for the user's location section",
+    "type": "text"
+  },
+  "about": "About",
+  "aboutUs": "About Us",
+  "aboutUsDesc": "We connect you with trusted car repair professionals to get you back on the road quickly.",
+  "acRepair": "AC Repair",
+  "addComment": "Add a Comment",
+  "add_content": "Add Content",
+  "add_from_gallery": "Add from Gallery",
+  "additionalFeedback": "Additional Feedback",
+  "additional_info": "Additional Information",
+  "addressError": "Failed to fetch address",
+  "addressFetchError": "Failed to retrieve address.",
+  "addressFetchFailed": "Failed to fetch address, please try again",
+  "address_error": "Error fetching address. Please try again.",
+  "advice": "Advice",
+  "alert": "Alert",
+  "alertComingSoon": "The emergency alert feature is currently under development and will be available in an upcoming update. Thank you for your understanding!",
+  "all": "All",
+  "allCategories": "All Categories",
+  "allServices": "All Services",
+  "all_providers_busy": "All available providers are busy",
+  "alreadyHaveAccount": "Already have an account?",
+  "ambulance": "Ambulance",
+  "ambulanceDescription": "Your safety matters. In case of an emergency, you can call directly or send an alert or message with your location.",
+  "apiBlockedError": "YouTube API is currently blocked. Please try again later or contact support.",
+  "apiInvalidError": "YouTube API key is invalid. Please contact support.",
+  "appDescription": "An app offering a range of services for all road users and car owners.",
+  "appLogo": "We Are Coming Logo",
+  "appRating": "Rate Our App",
+  "appointmentTime": "Appointment Time",
+  "appointmentTimeError": "Please select an appointment time",
+  "appointment_booked": "Appointment Booked",
+  "arabic": "Arabic",
+  "arrivalTimeError": "Error updating arrival time.",
+  "articles": "Articles",
+  "assigned_provider_info": "Assigned Provider Information",
+  "assigned_to_request": "Assigned to your request!",
+  "authenticationFailed": "Authentication failed: {error}",
+  "available": "Available Providers",
+  "back": "Back",
+  "batteryChargeDescription": "On-site car battery charging or replacement",
+  "batteryChargeTitle": "Battery Charge or Replacement",
+  "batteryChargeType": "Battery Charge",
+  "batteryReplacement": "Battery Replacement",
+  "becauseWeCome": "Because we come to you with what you need, anytime, anywhere.",
+  "bookNow": "Book Now",
+  "bookingConfirmed": "Booking Confirmed",
+  "bookingSummary": "Booking Summary",
+  "brakeRepair": "Brake Repair",
+  "brakeServiceDescription": "Brake system repair and maintenance for safety.",
+  "brakeServiceTitle": "Brake Repair",
+  "brands": "Brands",
+  "browse_posts": "Browse Posts",
+  "call": "Call",
+  "callDriver": "Call Provider",
+  "callError": "Failed to make phone call.",
+  "callFailed": "Unable to make call",
+  "callProvider": "Call Provider",
+  "callUs": "Call Us",
+  "call_now": "Call Now",
+  "call_provider": "Call Provider",
+  "call_provider_button": "Call Provider Button",
+  "cancel": "Cancel",
+  "cancelRequest": "Cancel Request",
+  "cancelService": "Cancel Service",
+  "cancel_request": "Cancel Request",
+  "cancel_request_button": "Cancel Request Button",
+  "cannot_make_call": "Unable to make a call to",
+  "car": "Car",
+  "carACServiceDescription": "Car AC system repair or recharge",
+  "carACServiceTitle": "Car AC Service",
+  "carElectricianDescription": "Diagnosis and repair of car electrical systems",
+  "carElectricianTitle": "Car Electrician",
+  "carFixesTips": "Car Fixes & Tips",
+  "carInspectionDescription": "Comprehensive car inspection before purchase or periodically",
+  "carInspectionTitle": "Car Inspection",
+  "carMechanicDescription": "General car mechanical repairs at your location",
+  "carMechanicTitle": "Car Mechanic",
+  "carRental": "Car Rental",
+  "carRentalDescription": "Convenient car rental services",
+  "carRentalTitle": "Car Rental",
+  "carUnlock": "Car Unlock",
+  "carWash": "Car Wash",
+  "carWashDescription": "Professional car cleaning services",
+  "carWashTitle": "Car Wash",
+  "cars": "Cars",
+  "cashback": "20% Cashback",
+  "category": "Category",
+  "center_map": "Center Map on My Location",
+  "changeAddress": "Change Address",
+  "changeLocation": "Change Location",
+  "changeLocationTitle": "Change Location",
+  "changePhoneNumber": "Change Phone Number",
+  "change_address": "Change Address",
+  "change_location": "Change Location",
+  "change_location_button": "Change Location Button",
+  "chat": "Chat",
+  "chatNow": "Chat Now",
+  "chat_initiated": "Chat initiated for {serviceTitle}",
+  "chat_queued": "Chat queued to be sent when internet is available",
+  "chooseLanguage": "Choose Language",
+  "civilProtection": "Civil Protection",
+  "civilProtectionDescription": "Your safety matters. In case of an emergency, you can call directly or send an alert or message with your location.",
+  "close": "Close",
+  "comfortableSedan": "Comfortable Sedan",
+  "comingSoon": "Coming Soon!",
+  "commentError": "Error posting comment",
+  "commentPosted": "Comment posted successfully",
+  "comments": "Comments",
+  "completeRegistrationMessage": "Enter your details to get started.",
+  "confirmCode": "Confirm Code",
+  "confirmDeletePost": "Confirm Delete Post",
+  "confirmDeletePostMessage": "Are you sure you want to delete this post? This action cannot be undone.",
+  "confirmSubscribe": "Confirm Subscribe",
+  "confirmSubscribeMessage": "Do you want to subscribe to this user's content?",
+  "confirmUnsubscribe": "Confirm Unsubscribe",
+  "confirmUnsubscribeMessage": "Do you want to unsubscribe from this user's content?",
+  "confirmVerificationCode": "Confirm Verification Code",
+  "connection_restored": "Connection restored",
+  "contact": "Contact",
+  "contactProvider": "Contacting",
+  "contactUs": "Contact Us",
+  "contact_provider_button": "Contact Provider",
+  "contacting_driver": "Contacting driver",
+  "content": "Content",
+  "currency": "dz",
+  "currentLocation": "Current Location",
+  "dashboard": "Dashboard",
+  "dataError": "Error loading data.",
+  "dataSavedError": "Error saving data: {error}",
+  "dataSavedSuccess": "Data saved successfully",
+  "date": "Date",
+  "dateError": "Please select a wash date",
+  "dateOfWash": "Date of Wash",
+  "days": "Days",
+  "days_ago": "{count, plural, zero{0 days ago} one{1 day ago} other{{count} days ago}}",
+  "defaultSort": "Default",
+  "default_location": "Default Location (Algeria)",
+  "delete": "Delete",
+  "deletePost": "Delete Post",
+  "delivery_option": "Delivery Option",
+  "delivery_option_subtitle": "Choose whether you want the service delivered to you",
+  "desc_bmw_r1250gs": "Touring motorcycle with luxury features",
+  "desc_chevrolet_silverado": "Large truck with strong towing capacity",
+  "desc_ford_f150": "Pickup truck with robust capabilities",
+  "desc_ford_mustang": "Powerful American car with outstanding performance",
+  "desc_harley_sportster": "Classic motorcycle with timeless design",
+  "desc_honda_cbr600rr": "High-performance sports bike for enthusiasts",
+  "desc_honda_civic": "Compact sports car with excellent handling",
+  "desc_toyota_corolla": "Reliable, fuel-efficient sedan with modern features",
+  "desc_toyota_tacoma": "Mid-size truck known for durability and off-road performance",
+  "description": "Description",
+  "determining_provider_location": "Determining provider location...",
+  "diagnostic": "Diagnostic",
+  "discountBanner": "Summer Surprise",
+  "dismiss": "Dismiss",
+  "distance": "Distance",
+  "dontHaveAccount": "Don't have an account?",
+  "driver": "Driver",
+  "driverArrived": "Provider Arrived",
+  "driverComing": "Provider arriving in",
+  "driverHasArrived": "Provider has arrived",
+  "driverIconLoadFailed": "Failed to load provider icon",
+  "driverIncluded": "Includes Driver",
+  "driverInfo": "Provider Information",
+  "driverInfoError": "Error retrieving provider information.",
+  "driverIsComing": "Provider is coming - Arrival time: ",
+  "driverOnWay": "Provider on the Way",
+  "driverSearchError": "Failed to find providers.",
+  "driverToDestination": "On the way to destination",
+  "driver_info_not_found": "Driver data not available",
+  "editPost": "Edit Post",
+  "email": "Email",
+  "emailUs": "Email Us",
+  "emergencies": "Emergencies",
+  "createPost": "Create Post",
+  "titleRequired": "Title is required",
+  "contentRequired": "Content is required",
+  "videoRequired": "Video is required",
+  "postCreated": "Post created successfully",
+  "postCreateError": "Failed to create post",
+  "uploadImage": "Upload Image",
+  "uploadVideo": "Upload Video",
+  "videoSelected": "Video selected",
+  "submit": "Submit",
+  "rating": "Rating",
+  "emergencyRepair": "Emergency Repair",
+  "emergencyRepairMessage": "Need urgent car repair? Find a mechanic now!",
+  "searchMechanics": "Search mechanics...",
+  "emergencyContacts": "Emergency Contacts",
+  "welcomeToRanaJayeen": "Welcome to Rana Jayeen",
+  "findMechanicsFast": "Find trusted mechanics fast",
+  "emergencyInfo": "In case of emergency, don't hesitate to call immediately. Your safety is our priority.",
+  "emergencyNumbers": "Emergency Numbers",
+  "emptyComment": "Comment cannot be empty",
+  "empty_field_error": "This field cannot be empty",
+  "enRoute": "En Route:",
+  "enable_notifications": "Allow Notifications",
+  "english": "English",
+  "enterCodeSentTo": "Enter the code sent to {phoneNumber}",
+  "enterDescription": "Enter a description (optional)",
+  "enterFeedback": "Enter your feedback (optional)...",
+  "enterPartName": "Enter part name",
+  "enterText": "Please enter text",
+  "enterValidOtp": "Please enter a valid 6-digit OTP",
+  "enterVehicleBrand": "Enter vehicle brand",
+  "enterYourName": "Enter your name",
+  "error": "Error",
+  "errorAddress": "Error getting address",
+  "errorLoadingServices": "Error loading services",
+  "errorLocation": "Error getting location",
+  "errorMessage": "Something went wrong",
+  "errorRequest": "Failed to process your request",
+  "errorSendingOtp": "Failed to send verification code: {error}",
+  "errorUnexpected": "Unexpected error",
+  "error_checking_location_permission": "Error checking location permission",
+  "error_fetching_chats": "Error fetching chats",
+  "error_fetching_driver_details": "Failed to fetch provider details",
+  "error_fetching_gas_stations": "Failed to fetch gas stations",
+  "error_fetching_provider": "Error fetching provider details",
+  "error_fetching_stores": "Error fetching stores",
+  "error_location_denied": "Location permission denied",
+  "error_location_denied_forever": "Location permission permanently denied",
+  "error_location_disabled": "Location services disabled",
+  "error_location_failed": "Failed to retrieve location",
+  "error_message_fetch_failed": "Failed to fetch messages: %s",
+  "error_message_send_failed": "Failed to send message: %s",
+  "error_phone_call": "Failed to make phone call",
+  "error_request_failed": "Request submission failed: {error}",
+  "error_request_save": "Failed to save request",
+  "error_request_status": "Error listening to request status: {error}",
+  "error_search_failed": "Provider search failed: {error}",
+  "error_tracking_request": "Failed to track request",
+  "error_user_location": "Failed to get user or location information",
+  "expand_search": "Expand Search",
+  "expanding_search": "Expanding search radius to",
+  "exteriorWash": "Exterior Wash",
+  "exterior_wash": "Exterior Wash",
+  "failed_phone_call": "Failed to make phone call",
+  "failed_to_book_store": "Failed to book store",
+  "failed_to_cancel_request": "Failed to cancel request.",
+  "failed_to_create_request": "Failed to create request. Retrying...",
+  "failed_to_fetch_driver_details": "Failed to fetch driver details",
+  "failed_to_get_address": "Failed to fetch address.",
+  "failed_to_get_location": "Failed to get location",
+  "failed_to_initialize": "Failed to initialize app",
+  "failed_to_initialize_provider_search": "Failed to initialize provider search.",
+  "failed_to_load_messages": "Failed to load chat messages",
+  "failed_to_load_providers": "Failed to load providers.",
+  "failed_to_make_call": "Failed to make call",
+  "failed_to_monitor_status": "Failed to monitor request status",
+  "failed_to_notify_provider": "Failed to notify provider",
+  "failed_to_open_chat": "Failed to open chat",
+  "failed_to_receive_ride_updates": "Failed to receive ride updates",
+  "failed_to_restore_state": "Failed to restore state",
+  "failed_to_search_providers": "Failed to search for providers.",
+  "failed_to_send_notification": "Failed to send notification",
+  "failed_to_send_request": "Failed to send request to provider.",
+  "failed_to_start_chat": "Failed to start chat",
+  "failed_to_submit_request": "Failed to submit request",
+  "failed_to_sync": "Failed to sync data",
+  "failed_to_sync_driver_data": "Failed to sync provider data",
+  "failed_to_update_location": "Failed to update location",
+  "featureNotAvailable": "Feature currently under development. We're working hard to make it available soon!",
+  "featuredOffer": "Featured Offer",
+  "features": "Features",
+  "feedback": "Feedback",
+  "feedbackSuccess": "Your feedback was sent successfully. Thank you for your input!",
+  "fetching_location": "Fetching location...",
+  "findYourRide": "Find Your Ride",
+  "findingProvider": "Finding Provider",
+  "firstname": "First Name",
+  "forgotPassword": "Forgot Password?",
+  "freeDiagnostic": "Free Diagnostic",
+  "freeDiagnosticDesc": "Get a free car diagnostic this week only!",
+  "french": "French",
+  "fullName": "Full Name",
+  "fullNameOptional": "Full Name",
+  "fullRepairTitle": "Full Repair",
+  "fullRepairType": "Comprehensive Repair",
+  "fullWash": "Full Wash",
+  "full_wash": "Full Wash",
+  "gasStation": "Gas Station",
+  "gasStationDescription": "Fuel and convenience services",
+  "gasStationTitle": "Gas Station",
+  "gas_station_selected": "Gas station selected",
+  "gendarmerie": "National Gendarmerie",
+  "gendarmerieDescription": "Your safety matters. In case of an emergency, you can call directly or send an alert or message with your location.",
+  "geoFireError": "Error initializing GeoFire.",
+  "glassRepairDescription": "Windshield and glass repair services",
+  "glassRepairTitle": "Glass Repair",
+  "go_back": "Go Back",
+  "goingToDestination": "On the way to destination - Arrival time: ",
+  "guest": "Guest",
+  "guides": "Guide",
+  "help": "Help",
+  "helpDescription": "Looks like you're having an issue. We're here to help!\nFeel free to reach out via message or call.",
+  "helpText": "Help Text",
+  "hide_stores": "Hide Stores",
+  "highestRated": "Highest Rated",
+  "home": "Home",
+  "hours_ago": "{count, plural, zero{0 hours ago} one{1 hour ago} other{{count} hours ago}}",
+  "howCanWeHelp": "How Can We Help You?",
+  "in_progress": "In Progress",
+  "info": "Info",
+  "initializing_service": "Initializing service...",
+  "interiorWash": "Interior Wash",
+  "interior_wash": "Interior Wash",
+  "invalidOtp": "Invalid verification code",
+  "invalid_service_type": "Invalid service type",
+  "inviteFriend": "Invite a Friend",
+  "job": "Job",
+  "just_now": "Just Now",
+  "keyProgrammingDescription": "On-site car key programming or replacement",
+  "keyProgrammingTitle": "Key Programming",
+  "km": "km",
+  "languageChanged": "Language changed successfully",
+  "lat": "Latitude",
+  "learnMore": "Learn More",
+  "like": "Like",
+  "likeError": "Error updating like status",
+  "liked": "Liked successfully",
+  "lng": "Longitude",
+  "loading": "Loading...",
+  "loadingAddress": "Loading address...",
+  "loadingCarFixesTips": "Loading car fixes and tips...",
+  "loadingPosts": "Loading posts...",
+  "loadingTutorials": "Loading tutorials...",
+  "loading_address": "Loading address...",
+  "locating": "Locating...",
+  "location": "Location",
+  "locationDisabled": "Location services are disabled. Please enable them to view providers.",
+  "locationError": "Location information unavailable.",
+  "locationFetchError": "Failed to fetch location.",
+  "locationFetchFailed": "Failed to locate, please try again",
+  "locationPermission": "Please enable location permission",
+  "locationPermissionDenied": "Location permission must be granted.",
+  "locationPermissionDeniedForever": "Location permission permanently denied. Please enable it in settings.",
+  "locationPermissionError": "Error checking location permission.",
+  "locationPermissionPermanentlyDenied": "Location permission permanently denied.",
+  "locationPermissionRequired": "Location permission required to use the service",
+  "locationServiceDisabled": "Location services disabled. Please enable them.",
+  "locationServicesDisabled": "Location services are disabled. Please enable them.",
+  "location_denied": "Location permission denied. Please allow access.",
+  "location_denied_forever": "Location permission permanently denied. Please enable it in settings.",
+  "location_disabled": "Location services disabled. Please enable them.",
+  "location_error": "Error fetching location. Please try again.",
+  "location_fetch_failed": "Failed to fetch location",
+  "location_permission_denied": "Location permission denied.",
+  "location_permission_denied_forever": "Location permission permanently denied.",
+  "location_permission_denied_permanently": "Location permission permanently denied",
+  "location_permission_error": "Location permission error",
+  "location_permission_required": "Location permission required",
+  "location_selection": "Location Selection",
+  "location_service_disabled": "Location services disabled",
+  "location_services_disabled": "Please enable location services.",
+  "login": "Login",
+  "loginRequired": "Please log in to subscribe",
+  "logout": "Logout",
+  "logoutError": "Error logging out: @error",
+  "luxury": "Luxury",
+  "maintenanceCategory": "Maintenance",
+  "map": "Map",
+  "mapThemeError": "Failed to load map theme.",
+  "map_label": "Map showing your location and nearby providers",
+  "max_retries_reached": "Maximum retry attempts reached for search.",
+  "mechanicServices": "Mechanic Services",
+  "menu": "Menu",
+  "messageComingSoon": "The messaging feature is currently under development and will be available soon. Thank you for your patience!",
+  "messageSent": "Message Sent",
+  "messageSuccess": "Your message was sent successfully. We'll reach out soon.",
+  "minutes_ago": "{count, plural, zero{0 minutes ago} one{1 minute ago} other{{count} minutes ago}}",
+  "mobile_car_wash": "Mobile",
+  "mobile_car_wash_provider": "Mobile Car Wash Provider",
+  "more_info_hint": "Add more information",
+  "motorcycle": "Motorcycle",
+  "motorcycles": "Motorcycles",
+  "rating_submitted": "Rating submitted successfully",
+  "rating_queued": "Rating queued, will sync when online",
+  "no_ratings": "No ratings",
+  "failed_to_submit_rating": "Failed to submit rating",
+  "name": "Name",
+  "checkingNetwork": "Checking network connection...",
+  "loadingCachedData": "Loading cached data...",
+  "noInternetConnectionWithCache": "No internet connection. Use offline mode with last saved data or try again when connected.",
+  "useOffline": "Use Offline",
+  "dataSynced": "Your data has been updated.",
+  "syncFailed": "Failed to update data. Please try again later.",
+  "message":"send message",
+  "nearby_gas_stations": "Nearby Gas Stations",
+  "new_message_body": "New message from",
+  "new_message_title": "New Message",
+  "new_request_at": "New",
+  "next": "Next",
+  "no": "No",
+  "noAddressFound": "No address found for this location",
+  "noCarFixesTips": "No content available for this category.",
+  "noDriversAvailable": "No providers available",
+  "noInternetConnection": "No internet connection",
+  "noMatchingDriver": "No matching driver found",
+  "noMatchingProvider": "No matching provider found.",
+  "noPhone": "No phone number",
+  "noPosts": "No posts available",
+  "noProviderAvailable": "No provider available at the moment",
+  "noProvidersAvailable": "No providers available at the moment",
+  "noProvidersNearby": "No providers available nearby.",
+  "noServicesFound": "No services found",
+  "noTutorials": "No tutorials available for this category.",
+  "noVehicles": "No vehicles found",
+  "no_address": "No address provided",
+  "no_cached_providers": "No cached providers found for this service.",
+  "no_chats_available": "No chats available",
+  "no_driver_assigned": "No driver assigned yet",
+  "no_drivers_available": "No providers available near you",
+  "no_gas_stations_available": "No gas stations available",
+  "no_provider_found": "No provider found",
+  "no_providers_available": "No providers available",
+  "no_providers_available_offline": "No providers available in offline mode",
+  "no_providers_for": "No providers available for",
+  "no_providers_found": "No providers found after maximum retries.",
+  "no_providers_found_searching": "No providers found. Continuing search...",
+  "no_results_found": "No results found for search",
+  "no_stores_available": "No stores available for this service",
+  "not_available": "Not Available",
+  "not_specified": "Not Specified",
+  "notificationSent": "Notification sent to nearby providers",
+  "notification_failed": "Failed to send notification to provider",
+  "notification_next_provider": "Searching for another provider",
+  "notification_sent_success": "Contacting provider",
+  "notification_unavailable": "Notification unavailable.",
+  "notifications_title": "Notifications",
+  "offline_mode": "Offline Mode",
+  "offline_providers_available": "Available Providers (Offline)",
+  "oilChange": "Oil Change",
+  "ok": "OK",
+  "or": "Or",
+  "originAddress": "Location Address",
+  "otpRequestTooSoon": "Please wait before requesting another OTP",
+  "otpSendFailed": "Failed to send OTP",
+  "otpSentSuccessfully": "OTP sent successfully",
+  "otpVerificationFailed": "OTP verification failed",
+  "partName": "Part Name",
+  "partNameError": "Please enter part name",
+  "password": "Password",
+  "phone": "Phone",
+  "phoneNotAvailable": "Phone number not available",
+  "phoneNumber": "Phone Number",
+  "phoneVerifiedMessage": "Your phone number has been verified successfully.",
+  "phoneVerifiedSuccessfully": "Phone verified successfully",
+  "phone_not_available": "Phone number not available",
+  "pickupDate": "Pickup Date",
+  "pleaseEnterName": "Please enter your name",
+  "pleaseEnterValidPhone": "Please enter a valid phone number",
+  "pleaseSelectRating": "Please select a rating before submitting.",
+  "pleaseWait": "Please wait a moment",
+  "police": "Police",
+  "policeDescription": "Your safety matters. In case of an emergency, you can call directly or send an alert or message with your location.",
+  "popularProducts": "Our Core Services",
+  "popularServices": "Our Core Services",
+  "postDeleteError": "Error deleting post",
+  "postDeleted": "Post deleted successfully",
+  "postUpdateError": "Error updating post",
+  "postUpdated": "Post updated successfully",
+  "pothole_report_category": "Pothole",
+  "pothole_report_description": "Report a pothole to improve road safety",
+  "powerfulTruck": "Powerful Truck",
+  "priceHighToLow": "Price: High to Low",
+  "priceLowToHigh": "Price: Low to High",
+  "pricePerDay": "Daily Price",
+  "primaryServices": "Primary Services",
+  "profile": "Profile",
+  "promotions": "Promotions",
+  "provider": "Provider",
+  "providerArrived": "Provider Arrived",
+  "providerOnWay": "Provider on the Way",
+  "provider_assigned": "Provider Assigned",
+  "provider_assigned_body": "Provider",
+  "provider_declined": "Providers declined the request. Trying other providers...",
+  "provider_details": "Provider Details",
+  "provider_location": "Provider Location",
+  "provider_no_service": "Provider does not offer this service",
+  "provider_not_found": "Provider not found in cached data",
+  "provider_notification_unavailable": "Provider",
+  "provider_on_way": "Provider on the way",
+  "provider_timeout": "Providers did not respond. Trying other providers...",
+  "providers": "Providers",
+  "providers_declined": "Providers declined. Trying other providers...",
+  "providers_no_response": "Providers did not respond. Trying other providers...",
+  "reachingTimeError": "Error updating destination arrival time.",
+  "refresh": "Refresh",
+  "register": "Register",
+  "rentVehicles": "Rent Vehicles",
+  "repairCategory": "Repair",
+  "report_category": "Contribute to faster road repairs by reporting issues",
+  "report_pothole": "Report Pothole",
+  "reports_label": "Reports",
+  "requestCarWash": "Request Car Wash",
+  "requestDelivery": "Request Delivery",
+  "requestError": "Failed to save request.",
+  "requestPickup": "Request Pickup",
+  "requestSent": "Request sent to provider.",
+  "requestService": "Request Service",
+  "requestSubmitted": "Request Submitted",
+  "request_accepted": "Request accepted by provider!",
+  "request_accepted_body": "Your request was accepted by",
+  "request_accepted_title": "Request Accepted",
+  "request_at": "Requested at",
+  "request_cancelled": "Request cancelled.",
+  "request_cancelled_message": "Service request cancelled",
+  "request_delivery": "Request Delivery",
+  "request_details": "Request Details",
+  "request_details_error": "Please provide request details",
+  "request_pickup": "Request Pickup",
+  "request_queued": "Request queued to be sent when internet is available",
+  "request_service": "Request Service",
+  "request_service_button": "Request Service Button",
+  "request_stored": "Request stored for",
+  "request_timeout": "Request timed out",
+  "request_type": "Request Type",
+  "resendCode": "Resend Code",
+  "resendInSeconds": "Resend in {seconds} seconds",
+  "retry": "Retry",
+  "retry_connection_button": "Retry Connection Button",
+  "retrying_location": "Retrying to fetch location...",
+  "returnDate": "Return Date",
+  "reviews": "Reviews",
+  "ride_cancelled_or_ended": "Ride cancelled or ended",
+  "ride_info_not_found": "Ride data not available",
+  "ride_status_updated": "Ride status updated",
+  "road_issue_report_title": "Report Pothole",
+  "roadsideAssistance": "Roadside Assistance",
+  "routineMaintenanceDescription": "Periodic vehicle maintenance services",
+  "routineMaintenanceTitle": "Routine Maintenance",
+  "save": "Save",
+  "saveData": "Save Rental",
+  "savedInformation": "Saved Information",
+  "schedule_date": "Schedule Date",
+  "schedule_date_error": "Please select a date",
+  "schedule_time": "Schedule Time",
+  "schedule_time_error": "Please select a time",
+  "scheduled": "Scheduled",
+  "search": "Search",
+  "searchAgain": "Please try again later",
+  "searchServices": "Search Services",
+  "searchVehicles": "Search Vehicles",
+  "search_continued": "Continuing search for providers...",
+  "search_error": "Error searching for providers",
+  "search_error_try_again": "Search error. Please try again.",
+  "search_location": "Search Location",
+  "searchingForProvider": "Searching for Provider",
+  "searching_for": "Searching for",
+  "searching_for_another_driver": "Searching for another driver...",
+  "searching_for_driver": "Searching for provider...",
+  "searching_for_provider": "Searching for provider",
+  "searching_offline": "Searching offline...",
+  "secondaryServices": "Secondary Services",
+  "seeMore": "See More",
+  "select": "Select",
+  "selectDate": "Select Date",
+  "selectLocationFirst": "Please select a location first",
+  "selectNumber": "Select a number to call:",
+  "selectService": "Please select a service.",
+  "selectServicePrompt": "Please select a service",
+  "selectVehicleType": "Select Vehicle Type",
+  "select_gas_station": "Select",
+  "select_location_first": "Please select a location first.",
+  "select_provider_to_contact": "Select a provider to contact directly",
+  "selfDrive": "Self Drive",
+  "send": "Send",
+  "sendAlert": "Do you really want to send an alert?",
+  "sendVerificationCode": "Send Verification Code",
+  "service": "Service",
+  "serviceCategories": "Emergency Services",
+  "serviceDescription": "Car towing to your desired location",
+  "serviceTypeError": "Please select a service type",
+  "service_description": "Request this service at your location",
+  "service_not_available": "Service Unavailable",
+  "service_not_available_message": "This service is currently under maintenance. Please try again later.",
+  "service_provider": "Service Provider",
+  "service_type": "Service Type",
+  "services": "Services",
+  "servicesCount": "{count, plural, zero{No services available} one{1 service available} other{{count} services available}}",
+  "setLocationButton": "Set Location",
+  "settings": "Settings",
+  "severity_high": "High",
+  "trip_ended": "Trip Ended",
+  "@trip_ended": {
+    "description": "Title for the toast notification when the trip ends."
+  },
+  "trip_ended_message": "Your trip has concluded. Please rate the service.",
+  "@trip_ended_message": {
+    "description": "Description for the toast notification when the trip ends."
+  },
+  "rate_service": "Rate Service",
+  "error_invalid_coordinates": "Invalid coordinates provided",
+  "@error_invalid_coordinates": {
+    "description": "Error message when invalid coordinates are provided."
+  },
+  "error_api_key_missing": "API key is missing",
+  "switch_to_stationary":"switch_to_stationary",
+  "switch_to_mobile":"switch_to_mobile",
+    "@error_api_key_missing": {
+    "description": "Error message when the Google Maps API key is not configured."
+  },
+  "error_fetching_directions": "Failed to fetch directions",
+  "@error_fetching_directions": {
+    "description": "Error message when fetching directions fails."
+  },
+  "@rate_service": {
+    "description": "Title of the rating dialog for the trip."
+  },
+  "comments_optional": "Comments (Optional)",
+  "@comments_optional": {
+    "description": "Label indicating that comments are optional in the rating dialog."
+  },
+  "enter_comments": "Enter your comments here",
+  "@enter_comments": {
+    "description": "Placeholder text for the comment input field in the rating dialog."
+  },
+  "rating_submitted": "Rating Submitted",
+  "@rating_submitted": {
+    "description": "Title for the success toast after submitting a rating."
+  },
+  "rating_submitted_message": "Thank you for your feedback!",
+  "@rating_submitted_message": {
+    "description": "Description for the success toast after submitting a rating."
+  },
+  "error_submitting_rating": "Failed to submit rating. Please try again.",
+  "@error_submitting_rating": {
+    "description": "Error message when rating submission fails."
+  },
+  "chat_synced": "Chat Synced",
+  "@chat_synced": {
+    "description": "Title for the success toast when a pending chat is synced."
+  },
+  "chat_synced_message": "Your chat has been successfully synced.",
+  "@chat_synced_message": {
+    "description": "Description for the success toast when a pending chat is synced."
+  },
+  "trip_cancelled": "Trip Cancelled",
+  "@trip_cancelled": {
+    "description": "Title for the toast when the trip is cancelled."
+  },
+  "trip_cancelled_message": "Your trip has been cancelled.",
+  "@trip_cancelled_message": {
+    "description": "Description for the toast when the trip is cancelled."
+  },
+  "call_initiated": "Call Initiated",
+  "@call_initiated": {
+    "description": "Title for the success toast when a phone call is initiated."
+  },
+  "call_initiated_message": "Connecting you to the provider.",
+  "@call_initiated_message": {
+    "description": "Description for the success toast when a phone call is initiated."
+  },
+  "share": "Share",
+  "shareError": "Error sharing post",
+  "sharePostText": "Check out this awesome post!",
+  "shopNow": "Shop Now",
+  "show_stores": "Show Stores",
+  "signIn": "Sign In",
+  "sort_by_distance": "Sort by Distance",
+  "sort_by_name": "Sort by Name",
+  "sort_providers": "Sort Providers",
+  "sparePartsDescription": "High-quality spare parts for your vehicle",
+  "sparePartsTitle": "Spare Parts",
+  "sparePartsType": "Spare Parts Sales",
+  "sportyMotorcycle": "Sporty Motorcycle",
+  "stationary_car_wash": "Stationary",
+  "status": "Status",
+  "store": "Store",
+  "store_service_description": "Choose a store or select delivery for your service needs",
+  "submit": "Submit Report",
+  "subscribe": "Subscribe",
+  "subscribed": "Subscribed successfully",
+  "subscriptionError": "Error updating subscription status",
+  "success": "Success!",
+  "support": "Support",
+  "suv": "SUV",
+  "tags": "Tags",
+  "tags_hint": "Enter tags, separated by commas (e.g., #car_repair, #maintenance)",
+  "take_photo": "Take Photo",
+  "taxDisclaimer": "Prices may not include taxes and fees",
+  "termsAndConditions": "By continuing, you agree to our terms and conditions.",
+  "testimonial1": "Amazing service! My car was fixed in no time.",
+  "testimonial2": "Reliable and affordable. Highly recommend!",
+  "testimonials": "Testimonials",
+  "text": "Message",
+  "thankYou": "Thank You",
+  "thankYouPatience": "Thank you for your patience!",
+  "time": "Time",
+  "timeoutError": "Request timed out. Please check connection and try again.",
+  "tireRepair": "Tire Repair",
+  "tireRepairDescription": "On-site tire repair service",
+  "tireRepairTitle": "Tire Repair",
+  "title": "Title",
+  "totalFor": "Total for",
+  "towTruckDescription": "Car towing to your desired location",
+  "towTruckTitle": "Towing Service",
+  "towTruckType": "Tow Truck",
+  "towingService": "Towing Service",
+  "trip_cancelled_or_ended": "Trip cancelled or ended",
+  "trip_in_progress": "Service in progress",
+  "truck": "Truck",
+  "trucks": "Trucks",
+  "tryDifferentCityOrDate": "Try a different city or date!",
+  "tryDifferentDate": "Try a different date",
+  "tutorials": "Tutorials",
+  "type_message": "Send a message",
+  "unable_to_create_request": "Unable to create request. Please try again later.",
+  "unable_to_get_location": "Unable to fetch location. Using default location.",
+  "understood": "Understood",
+  "unknown": "Unknown",
+  "unknownAddress": "Unknown Address",
+  "unknownLocation": "Unknown",
+  "unknownNumber": "Unknown Number",
+  "unknownService": "Unknown Service",
+  "unknown_location": "Unknown Location",
+  "unlike": "Unlike",
+  "unliked": "Unliked successfully",
+  "unspecified": "Unspecified",
+  "unsubscribe": "Unsubscribe",
+  "unsubscribed": "Unsubscribed successfully",
+  "upload_failed": "Failed to upload image",
+  "urgent": "Urgent",
+  "urgent_request": "Urgent Request",
+  "urlError": "Unable to open content. Please try again.",
+  "user1": "John Doe",
+  "user2": "Jane Smith",
+  "userInfoError": "Failed to get user information.",
+  "userLocationFetchFailed": "Failed to fetch user or location data",
+  "username": "Username",
+  "vehicle": "Vehicle",
+  "vehicleBrand": "Vehicle Brand",
+  "vehicleBrandError": "Please enter vehicle brand",
+  "vehicleType": "Vehicle Type",
+  "vehicleTypeError": "Please select a vehicle type",
+  "verificationCode": "OTP",
+  "verificationFailed": "Verification failed: {error}",
+  "videos": "Videos",
+  "viewAll": "View All",
+  "views": "{count, plural, zero{0 views} one{1 view} other{{count} views}}",
+  "waiting": "Waiting",
+  "waiting_for_confirmation": "Your request has been sent, please wait for provider confirmation",
+  "washType": "Wash Type",
+  "washTypeError": "Please select a wash type",
+  "wash_type": "Wash Type",
+  "wash_type_error": "Please select a wash type",
+  "weAreComing": "We Are Coming",
+  "weAreHereToHelp": "We Are Here to Help",
+  "welcome": "Welcome",
+  "wheelChangeDescription": "On-site tire repair or replacement",
+  "wheelChangeTitle": "Tire Change or Repair",
+  "wheelChangeType": "Wheel Change",
+  "whoWeAre": "Who We Are",
+  "willContact": "We'll contact you soon with service details",
+  "withDriver": "With Driver",
+  "writeHere": "Write Here",
+  "year": "Year",
+  "yes": "Yes",
+  "yourLocation": "your location",
+  "yourOpinionMatters": "Your opinion matters, so feel free to share.",
+  "your_location": "Your Location",
+  "zoom_in": "Zoom In",
+  "zoom_out": "Zoom Out",
+  "openMenu": "ⴰⵣⵎⵎⴰⵎ",
+  "view_providers": "View Cached Providers",
+  "@view_providers": {
+    "description": "Label for the button to view cached providers in offline mode."
+  },
+  "cached_providers": "Cached Providers",
+  "@cached_providers": {
+    "description": "Title for the bottom sheet displaying cached providers."
+  },
+  "offline_request_not_allowed": "Cannot send request in offline mode. View cached providers instead.",
+  "@offline_request_not_allowed": {
+    "description": "Error message shown when a user tries to send a request in offline mode."
+  },
+  "no_cached_providers_available": "No cached providers available.",
+  "@no_cached_providers_available": {
+    "description": "Message shown when no cached providers are available in offline mode."
+  },
+
+"@openMenu": { "description": "Label for opening the navigation menu" },
+"greetingPersonal": "Hi {userName}",
+  "@greetingPersonal": {
+    "description": "Personalized greeting with the user's name",
+    "placeholders": {
+      "userName": {}
+    }
+  },
+  "noVideosFound": "No videos found. Try again later.",
+"@noVideosFound": {
+  "description": "Message shown when no videos are available"
+},
+"videoLoadError": "Unable to load video. Please try again.",
+"invalidPhoneNumber": "Invalid phone number. Please check and try again.",
+  "tooManyRequests": "Too many requests. Please wait before trying again.",
+  "otpExpired": "The verification code has expired. Please request a new one.",
+"@videoLoadError": {
+  "description": "Error message for video loading failure"
+},
+  "nearby_stores": "Nearby {serviceTitle}",
+"@nearby_stores": {
+  "description": "Title for the list of nearby stores or service providers, where {serviceTitle} is the type of service (e.g., Gas Stations, Repair Shops).",
+  "placeholders": {
+    "serviceTitle": {}
+  }
+},
+  "quotaExceededError": "Too many OTP requests. Try again later or use another method.",
+  "@quotaExceededError": {
+    "description": "Error shown when OTP request limit is exceeded."
+  },
+  "greetingAvailability": "Wherever you are,we are",
+  "greetingSupport": "Support us to grow and expand",
+  "marketingSlogan": "Break down anywhere? Rana Jayeen brings help to you fast."
+}

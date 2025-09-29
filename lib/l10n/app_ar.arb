@@ -1,0 +1,1381 @@
+{
+  "@@locale": "ar",
+  "@locationPermissionMessage": {
+    "description": "رسالة طلب إذن الوصول إلى الموقع"
+  },
+  "@allow": {
+    "description": "نص زر السماح بالإذن"
+  },
+  "@goToLogin": {
+    "description": "نص زر الانتقال إلى شاشة تسجيل الدخول بعد الحد الأقصى للمحاولات"
+  },
+  "@serverTimeout": {
+    "description": "رسالة خطأ لتجاوز مهلة الخادم أثناء التحقق من المصادقة"
+  },
+  "@authError": {
+    "description": "رسالة خطأ عامة لفشل المصادقة"
+  },
+  "@checkingLoginStatus": {
+    "description": "النص المعروض على شاشة التحميل أثناء التحقق من المصادقة"
+  },
+  "@welcome1Title": {
+    "description": "عنوان الشاشة الأولى في مقدمة التطبيق"
+  },
+  "@welcome1Desc": {
+    "description": "وصف الشاشة الأولى في مقدمة التطبيق"
+  },
+  "@welcome2Title": {
+    "description": "عنوان الشاشة الثانية في مقدمة التطبيق"
+  },
+  "@welcome2Desc": {
+    "description": "وصف الشاشة الثانية في مقدمة التطبيق"
+  },
+  "@welcome3Title": {
+    "description": "عنوان الشاشة الثالثة في مقدمة التطبيق"
+  },
+  "@welcome3Desc": {
+    "description": "وصف الشاشة الثالثة في مقدمة التطبيق"
+  },
+  "@welcome4Title": {
+    "description": "عنوان الشاشة الرابعة في مقدمة التطبيق"
+  },
+  "@welcome4Desc": {
+    "description": "وصف الشاشة الرابعة في مقدمة التطبيق"
+  },
+  "@continueButton": {
+    "description": "نص زر الاستمرار"
+  },
+  "@nextButton": {
+    "description": "نص زر التالي"
+  },
+  "@skipButton": {
+    "description": "نص زر التخطي"
+  },
+  "@anonymous_user": {
+    "description": "تسمية المستخدم المجهول"
+  },
+  "@no_chats_found": {
+    "description": "رسالة عند عدم العثور على محادثات"
+  },
+  "@message_queued": {
+    "description": "رسالة عندما يتم وضع الرسالة في قائمة الانتظار"
+  },
+  "locationPermissionMessage": "الرجاء السماح بالوصول إلى الموقع للعثور على مقدمي الخدمات القريبين",
+  "allow": "السماح",
+  "goToLogin": "الذهاب إلى تسجيل الدخول",
+  "serverTimeout": "استغرق الخادم وقتًا طويلاً للرد.",
+  "authError": "فشل التحقق من تسجيل الدخول. حاول مرة أخرى.",
+  "checkingLoginStatus": "انتظر قليلا لتحميل معلوماتك..",
+  "welcome1Title": "مساعدة ذكية",
+  "welcome1Desc": "هو تطبيق ذكي يساعدك في حل الأعطال \nالتي تتعرض لها مركبتك",
+  "welcome2Title": "فنيون متخصصون",
+  "welcome2Desc": "سنوفر اكثر الاشخاص خبرة\n و الاقرب اليك لاخراجك من المأزق",
+  "welcome3Title": "خدمات إضافية",
+  "welcome3Desc": "يمكنك ايضا الاستفادة من خدماتنا الاضافية\n الابلاغ و استئجار سيارات ...",
+  "welcome4Title": "دعم على مدار الساعة",
+  "welcome4Desc": "سنكون معكم اينما كنتكم  \n ان كنت تريد ان توفر الوقت و المال فاخترنا",
+  "continueButton": "متابعة",
+  "nextButton": "التالي",
+  "skipButton": "تخطي",
+  "anonymous_user": "مستخدم مجهول",
+  "no_chats_found": "لم يتم العثور على محادثات",
+  "message_queued": "تم وضع الرسالة في قائمة الانتظار",
+
+    "@add_from_gallery": {
+        "description": "Button label for adding image from gallery",
+        "type": "text"
+    },
+    "@additional_info": {
+        "description": "Label for additional information input field",
+        "type": "text"
+    },
+    "@address_error": {
+        "description": "Error message for address fetching failure",
+        "type": "text"
+    },
+    "@allServices": {
+        "description": "Title for all services page"
+    },
+    "@appLogo": {
+        "description": "تسمية الوصول لصورة شعار التطبيق"
+    },
+    "@appointmentTime": {
+        "description": "Label for the appointment time selection"
+    },
+    "@appointmentTimeError": {
+        "description": "Error message for missing appointment time selection"
+    },
+    "@appointment_booked": {
+        "description": "Message shown when an appointment is booked"
+    },
+    "@back": {
+        "description": "Label for back button"
+    },
+    "@batteryChargeDescription": {
+        "description": "Description for battery charge service"
+    },
+    "@batteryChargeTitle": {
+        "description": "Title for battery charge service"
+    },
+    "@bookingConfirmed": {
+        "description": "Message shown when a booking is confirmed"
+    },
+    "@bookingSummary": {
+        "description": "Title for booking summary section"
+    },
+    "@call": {
+        "description": "Label for the call button"
+    },
+    "@carACServiceDescription": {
+        "description": "Description for car AC service"
+    },
+    "@carACServiceTitle": {
+        "description": "Title for car AC service"
+    },
+    "@carElectricianDescription": {
+        "description": "Description for car electrician service"
+    },
+    "@carElectricianTitle": {
+        "description": "Title for car electrician service"
+    },
+    "@carInspectionDescription": {
+        "description": "Description for car inspection service"
+    },
+    "@carInspectionTitle": {
+        "description": "Title for car inspection service"
+    },
+    "@carMechanicDescription": {
+        "description": "Description for car mechanic service"
+    },
+    "@carMechanicTitle": {
+        "description": "Title for car mechanic service"
+    },
+    "@carWash": {
+        "description": "Title for the car wash service page"
+    },
+    "@changePhoneNumber": {
+        "description": "Label for change phone number button"
+    },
+    "@change_address": {
+        "description": "Label for the change address button"
+    },
+    "@chat_initiated": {
+        "description": "رسالة تظهر عند بدء الدردشة لخدمة معينة",
+        "placeholders": {
+            "serviceTitle": {}
+        }
+    },
+    "@completeRegistrationMessage": {
+        "description": "Message for complete registration screen"
+    },
+    "@confirmCode": {
+        "description": "Label for confirm OTP button"
+    },
+    "@confirmVerificationCode": {
+        "description": "Title for OTP verification screen"
+    },
+    "@dateError": {
+        "description": "Error message for missing date selection"
+    },
+    "@dateOfWash": {
+        "description": "Label for the date of wash selection"
+    },
+    "@days": {
+        "description": "Label for number of days in booking"
+    },
+    "@days_ago": {
+        "description": "Format for days ago",
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "@description": {
+        "description": "Label for the description input field"
+    },
+    "@driverIncluded": {
+        "description": "Subtitle when with driver is selected"
+    },
+    "@empty_field_error": {
+        "description": "Error message for empty form field",
+        "type": "text"
+    },
+    "@enterCodeSentTo": {
+        "description": "Message for OTP input, showing phone number",
+        "placeholders": {
+            "phoneNumber": {
+                "description": "The phone number the OTP was sent to"
+            }
+        }
+    },
+    "@enterValidOtp": {
+        "description": "Error message for invalid OTP"
+    },
+    "@enterYourName": {
+        "description": "Hint for name input"
+    },
+    "@error_fetching_provider": {
+        "description": "Error message when fetching provider details fails"
+    },
+    "@error_fetching_stores": {
+        "description": "Error message when fetching stores fails"
+    },
+    "@error_location_denied": {
+        "description": "Error message when location permission is denied"
+    },
+    "@error_location_denied_forever": {
+        "description": "Error message when location permission is permanently denied"
+    },
+    "@error_location_disabled": {
+        "description": "Error message when location services are disabled"
+    },
+    "@error_location_failed": {
+        "description": "Error message when location retrieval fails",
+        "placeholders": {
+            "error": {}
+        }
+    },
+    "@error_message_fetch_failed": {
+        "description": "رسالة خطأ عند فشل جلب الرسائل من قاعدة البيانات"
+    },
+    "@error_message_send_failed": {
+        "description": "رسالة خطأ عند فشل إرسال الرسالة إلى قاعدة البيانات"
+    },
+    "@error_phone_call": {
+        "description": "Error message when making a phone call fails"
+    },
+    "@error_request_failed": {
+        "description": "Error message when request submission fails",
+        "placeholders": {
+            "error": {}
+        }
+    },
+    "@error_request_status": {
+        "description": "Error message when listening to request status fails",
+        "placeholders": {
+            "error": {}
+        }
+    },
+    "@error_search_failed": {
+        "description": "Error message when provider search fails",
+        "placeholders": {
+            "error": {}
+        }
+    },
+    "@error_user_location": {
+        "description": "Error message when user location is unavailable"
+    },
+    "@exteriorWash": {
+        "description": "Option for exterior car wash"
+    },
+    "@features": {
+        "description": "Label for vehicle features section"
+    },
+    "@findYourRide": {
+        "description": "Header for search card"
+    },
+    "@fullName": {
+        "description": "Label for full name field"
+    },
+    "@fullNameOptional": {
+        "description": "Label for full name input"
+    },
+    "@fullWash": {
+        "description": "Option for full car wash (exterior and interior)"
+    },
+    "@hours_ago": {
+        "description": "Format for hours ago",
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "@interiorWash": {
+        "description": "Option for interior car wash"
+    },
+    "@keyProgrammingDescription": {
+        "description": "Description for key programming service"
+    },
+    "@keyProgrammingTitle": {
+        "description": "Title for key programming service"
+    },
+    "@km": {
+        "description": "Unit for kilometers"
+    },
+    "@languageChanged": {
+        "description": "رسالة التأكيد المعروضة عند تغيير اللغة"
+    },
+    "@loading_address": {
+        "description": "Message shown while loading the user's address"
+    },
+    "@locating": {
+        "description": "Message shown while fetching location",
+        "type": "text"
+    },
+    "@location_denied": {
+        "description": "Error message when location permission is denied",
+        "type": "text"
+    },
+    "@location_denied_forever": {
+        "description": "Error message when location permission is permanently denied",
+        "type": "text"
+    },
+    "@location_disabled": {
+        "description": "Error message when location services are disabled",
+        "type": "text"
+    },
+    "@location_error": {
+        "description": "Error message for location fetching failure",
+        "type": "text"
+    },
+    "@luxury": {
+        "description": "Label for luxury category"
+    },
+    "@minutes_ago": {
+        "description": "Format for minutes ago",
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "@mobile_car_wash": {
+        "description": "Option for mobile car wash service"
+    },
+    "@mobile_car_wash_provider": {
+        "description": "Label for mobile car wash provider"
+    },
+    "@no": {
+        "description": "Negative response for with driver toggle"
+    },
+    "@noInternetConnection": {
+        "description": "Error message for no internet connection"
+    },
+    "@no_provider_found": {
+        "description": "Message shown when no provider is found"
+    },
+    "@no_providers_available": {
+        "description": "Message shown when no providers are available"
+    },
+    "@no_stores_available": {
+        "description": "Message shown when no stores are available"
+    },
+    "@otpRequestTooSoon": {
+        "description": "Error message for OTP request too soon"
+    },
+    "@otpSendFailed": {
+        "description": "Error message for OTP send failure"
+    },
+    "@otpSentSuccessfully": {
+        "description": "Success message for OTP sent"
+    },
+    "@otpVerificationFailed": {
+        "description": "Error message for OTP verification failure"
+    },
+    "@phoneNumber": {
+        "description": "Label for phone number input"
+    },
+    "@phoneVerifiedSuccessfully": {
+        "description": "Success message for phone verification"
+    },
+    "@phone_not_available": {
+        "description": "Message shown when provider phone number is not available"
+    },
+    "@pleaseEnterName": {
+        "description": "Error message for empty name"
+    },
+    "@pleaseEnterValidPhone": {
+        "description": "Error message for invalid phone number"
+    },
+    "@popularServices": {
+        "description": "Title for popular services section"
+    },
+    "@pothole_report_category": {
+        "description": "Category name for pothole reports",
+        "type": "text"
+    },
+    "@pothole_report_description": {
+        "description": "Description for pothole reporting card",
+        "type": "text"
+    },
+    "@provider": {
+        "description": "Label for provider in booking summary"
+    },
+    "@report_pothole": {
+        "description": "Title for the pothole reporting screen",
+        "type": "text"
+    },
+    "@reports_label": {
+        "description": "Label for the number of reports",
+        "type": "text"
+    },
+    "@request_accepted": {
+        "description": "Message shown when the request is accepted"
+    },
+    "@request_timeout": {
+        "description": "Message shown when the request times out"
+    },
+    "@request_type": {},
+    "@resendCode": {
+        "description": "Label for resend OTP button"
+    },
+    "@resendInSeconds": {
+        "description": "Label for resend OTP timer",
+        "placeholders": {
+            "seconds": {
+                "description": "Number of seconds remaining"
+            }
+        }
+    },
+    "@reviews": {
+        "description": "Label for review count"
+    },
+    "@road_issue_report_title": {
+        "description": "Title for the pothole reporting section",
+        "type": "text"
+    },
+    "@scheduled": {},
+    "@searching_for_provider": {
+        "description": "Message shown while searching for a service provider"
+    },
+    "@seeMore": {
+        "description": "Button text to see more services"
+    },
+    "@selfDrive": {
+        "description": "Subtitle when with driver is not selected"
+    },
+    "@sendVerificationCode": {
+        "description": "Label for send OTP button"
+    },
+    "@serviceTypeError": {
+        "description": "Error message for missing service type selection"
+    },
+    "@service_not_available": {
+        "description": "Message shown when the service is unavailable",
+        "type": "text"
+    },
+    "@service_not_available_message": {
+        "description": "Additional message explaining service unavailability",
+        "type": "text"
+    },
+    "@service_type": {
+        "description": "Label for the service type selection"
+    },
+    "@services": {
+        "description": "Label for services offered by a store or provider"
+    },
+    "@severity_high": {
+        "description": "Label for high severity level",
+        "type": "text"
+    },
+    "@signIn": {
+        "description": "Title for sign in screen"
+    },
+    "@stationary_car_wash": {
+        "description": "Option for stationary car wash service"
+    },
+    "@store": {
+        "description": "Label for a car wash store"
+    },
+    "@submit": {
+        "description": "Button label for submitting the report",
+        "type": "text"
+    },
+    "@suv": {
+        "description": "Label for SUV category"
+    },
+    "@take_photo": {
+        "description": "Button label for taking a photo",
+        "type": "text"
+    },
+    "@taxDisclaimer": {
+        "description": "Disclaimer about taxes for bookings"
+    },
+    "@termsAndConditions": {
+        "description": "Text for terms and conditions agreement"
+    },
+    "@totalFor": {
+        "description": "Label for total price duration"
+    },
+    "@towTruckDescription": {
+        "description": "Description for towing service"
+    },
+    "@towTruckTitle": {
+        "description": "Title for towing service"
+    },
+    "@unknown": {
+        "description": "Fallback for unknown values"
+    },
+    "@unknownNumber": {
+        "description": "Fallback text when phone number is unavailable"
+    },
+    "@unknown_location": {
+        "description": "Fallback for unknown location"
+    },
+    "@unspecified": {
+        "description": "Fallback for unspecified values"
+    },
+    "@urgent": {},
+    "@urgent_request": {
+        "description": "Label for urgent request checkbox"
+    },
+    "@vehicle": {
+        "description": "Label for vehicle in booking summary"
+    },
+    "@vehicleBrand": {
+        "description": "Label for the vehicle brand input field"
+    },
+    "@vehicleBrandError": {
+        "description": "Error message for missing vehicle brand"
+    },
+    "@verificationCode": {
+        "description": "Label for OTP input"
+    },
+    "@views": {
+        "description": "Format for view count",
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "@waiting_for_confirmation": {
+        "description": "Message shown while waiting for provider confirmation"
+    },
+    "@washType": {
+        "description": "Label for the car wash type selection"
+    },
+    "@washTypeError": {
+        "description": "Error message for missing wash type selection"
+    },
+    "@wheelChangeDescription": {
+        "description": "Description for wheel change service"
+    },
+    "@wheelChangeTitle": {
+        "description": "Title for wheel change service"
+    },
+    "@yes": {
+        "description": "Affirmative response for with driver toggle"
+    },
+    "@your_location": {
+        "description": "Label for the user's location section",
+        "type": "text"
+    },
+    "about": "حول",
+    "aboutUs": "من نحن",
+    "aboutUsDesc": "نربطك بمحترفي إصلاح السيارات الموثوقين لإعادتك إلى الطريق بسرعة.",
+    "acRepair": "إصلاح التكييف",
+    "addComment": "أضف تعليقًا",
+    "add_content": "إضافة محتوى",
+    "add_from_gallery": "إضافة من المعرض",
+    "additionalFeedback": "تعليقات إضافية",
+    "additional_info": "معلومات إضافية",
+    "addressError": "فشل في جلب العنوان",
+    "addressFetchError": "فشل في الحصول على العنوان.",
+    "addressFetchFailed": "فشل في جلب العنوان، حاول مرة أخرى",
+    "address_error": "خطأ في جلب العنوان. يرجى المحاولة مرة أخرى.",
+    "advice": "نصائح",
+    "alert": "تنبيه",
+    "alertComingSoon": "يتم حالياً العمل على ميزة التنبيه في حالات الطوارئ وسوف تكون متاحة في تحديث قادم. نقدر تفهمكم!",
+    "all": "الكل",
+    "allCategories": "جميع الفئات",
+    "allServices": "جميع الخدمات",
+    "all_providers_busy": "جميع المزودين المتاحين مشغولون",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "ambulance": "الإسعافات",
+    "ambulanceDescription": "يهمنا سلامتك. فور حدوث أي طارئ، يمكنك الاتصال مباشرة أو إرسال تنبيه أو رسالة مع موقع تواجدك.",
+    "apiBlockedError": "واجهة برمجة يوتيوب محظورة حاليًا. يرجى المحاولة مرة أخرى لاحقًا أو التواصل مع الدعم.",
+    "apiInvalidError": "مفتاح واجهة برمجة يوتيوب غير صالح. يرجى التواصل مع الدعم.",
+    "appDescription": "تطبيق يقدم مجموعة من الخدمات لكل مستعملي الطرقات ومستقلي السيارات.",
+    "appLogo": "شعار رانا جايين",
+    "appRating": "قيم تطبيقنا",
+    "appointmentTime": "وقت الموعد",
+    "appointmentTimeError": "يرجى اختيار وقت الموعد",
+    "appointment_booked": "تم حجز الموعد",
+    "arabic": "العربية",
+    "arrivalTimeError": "خطأ في تحديث وقت الوصول.",
+    "articles": "المقالات",
+    "assigned_provider_info": "معلومات مقدم الخدمة المعين",
+    "assigned_to_request": "تم تعيينه لطلبك!",
+    "authenticationFailed": "فشل المصادقة: {error}",
+    "available": "مقدمو الخدمة المتاحون",
+    "back": "رجوع",
+    "batteryChargeDescription": "شحن أو استبدال بطارية السيارة في الموقع",
+    "batteryChargeTitle": "شحن أو استبدال البطارية",
+    "batteryChargeType": "شحن البطارية",
+    "batteryReplacement": "استبدال البطارية",
+    "becauseWeCome": "لأننا نأتي إليك بما تحتاجه في أي زمان أو مكان.",
+    "bookNow": "احجز الآن",
+    "bookingConfirmed": "تم تأكيد الحجز",
+    "bookingSummary": "ملخص الحجز",
+    "brakeRepair": "إصلاح الفرامل",
+    "brakeServiceDescription": "إصلاح وصيانة نظام الفرامل للأمان.",
+    "brakeServiceTitle": "إصلاح الفرامل",
+    "brands": "علامات تجارية",
+    "browse_posts": "تصفح المنشورات",
+    "call": "الاتصال",
+    "callDriver": "الاتصال بمقدم الخدمة",
+    "callError": "فشل في إجراء المكالمة الهاتفية.",
+    "callFailed": "لا يمكن إجراء المكالمة",
+    "callProvider": "الاتصال بالمزود",
+    "callUs": "اتصل بنا",
+    "call_now": "الاتصال الآن",
+    "call_provider": "الاتصال بمقدم الخدمة",
+    "call_provider_button": "زر الاتصال بمقدم الخدمة",
+    "cancel": "إلغاء",
+    "cancelRequest": "إلغاء الطلب",
+    "cancelService": "إلغاء الخدمة",
+    "cancel_request": "إلغاء الطلب",
+    "cancel_request_button": "زر إلغاء الطلب",
+    "cannot_make_call": "غير قادر على إجراء مكالمة إلى",
+    "car": "سيارة",
+    "carACServiceDescription": "إصلاح أو إعادة شحن نظام تكييف السيارة",
+    "carACServiceTitle": "خدمة تكييف السيارة",
+    "carElectricianDescription": "تشخيص وإصلاح الأنظمة الكهربائية للسيارة",
+    "carElectricianTitle": "كهربائي سيارات",
+    "carFixesTips": "إصلاح السيارات ونصائح",
+    "carInspectionDescription": "فحص شامل للسيارة قبل الشراء أو بشكل دوري",
+    "carInspectionTitle": "فحص السيارة",
+    "carMechanicDescription": "إصلاحات ميكانيكية عامة للسيارة في موقعك",
+    "carMechanicTitle": "ميكانيكي سيارات",
+    "carRental": "تأجير السيارات",
+    "carRentalDescription": "خدمات تأجير السيارات المريحة",
+    "carRentalTitle": "تأجير السيارات",
+    "carUnlock": "فتح السيارة",
+    "carWash": "غسيل السيارات",
+    "carWashDescription": "خدمات تنظيف السيارات الاحترافية",
+    "carWashTitle": "غسيل السيارات",
+    "cars": "سيارات",
+    "cashback": "استرداد نقدي 20%",
+    "category": "الفئة",
+    "center_map": "تمركز الخريطة على موقعي",
+    "changeAddress": "تغيير العنوان",
+    "changeLocation": "تغيير الموقع",
+    "changeLocationTitle": "تغيير الموقع",
+    "changePhoneNumber": "تغيير رقم الهاتف",
+    "change_address": "تغيير العنوان",
+    "change_location": "تغيير الموقع",
+    "change_location_button": "زر تغيير الموقع",
+    "chat": "دردشة",
+    "chatNow": "دردش الآن",
+    "chat_initiated": "تم بدء الدردشة لـ {serviceTitle}",
+    "chat_queued": "تمت إضافة الدردشة إلى قائمة الانتظار ليتم إرسالها عند الاتصال بالإنترنت",
+    "chooseLanguage": "اختر اللغة",
+    "civilProtection": "الحماية المدنية",
+    "civilProtectionDescription": "يهمنا سلامتك. فور حدوث أي طارئ، يمكنك الاتصال مباشرة أو إرسال تنبيه أو رسالة مع موقع تواجدك.",
+    "close": "إغلاق",
+    "comfortableSedan": "سيدان مريح",
+    "comingSoon": "قريباً!",
+    "commentError": "حدث خطأ أثناء نشر التعليق",
+    "commentPosted": "تم نشر التعليق بنجاح",
+    "comments": "التعليقات",
+    "completeRegistrationMessage": "أدخل تفاصيلك للبدء.",
+    "confirmCode": "تأكيد الرمز",
+    "confirmDeletePost": "تأكيد حذف المنشور",
+    "confirmDeletePostMessage": "هل أنت متأكد من أنك تريد حذف هذا المنشور؟ لا يمكن التراجع عن هذا الإجراء.",
+    "confirmSubscribe": "تأكيد الاشتراك",
+    "confirmSubscribeMessage": "هل تريد الاشتراك في محتوى هذا المستخدم؟",
+    "confirmUnsubscribe": "تأكيد إلغاء الاشتراك",
+    "confirmUnsubscribeMessage": "هل تريد إلغاء الاشتراك من محتوى هذا المستخدم؟",
+    "confirmVerificationCode": "تأكيد رمز التحقق",
+    "connection_restored": "تم استعادة الاتصال",
+    "contact": "الاتصال",
+    "contactProvider": "جاري التواصل مع",
+    "contactUs": "اتصل بنا",
+    "contact_provider_button": "التواصل مع مقدم الخدمة",
+    "contacting_driver": "جارٍ التواصل مع السائق",
+    "content": "المحتوى",
+    "currency": "دج",
+    "currentLocation": "الموقع الحالي",
+    "dashboard": "لوحة التحكم",
+    "dataError": "خطأ في تحميل البيانات.",
+    "dataSavedError": "خطأ في حفظ البيانات: {error}",
+    "dataSavedSuccess": "تم حفظ البيانات بنجاح",
+    "date": "التاريخ",
+    "dateError": "يرجى اختيار تاريخ الغسيل",
+    "dateOfWash": "تاريخ الغسيل",
+    "days": "أيام",
+    "days_ago": "{count, plural, zero{قبل 0 أيام} one{قبل يوم واحد} other{قبل {count} أيام}}",
+    "defaultSort": "الافتراضي",
+    "default_location": "الموقع الافتراضي (الجزائر)",
+    "delete": "حذف",
+    "deletePost": "حذف المنشور",
+    "delivery_option": "خيار التوصيل",
+    "delivery_option_subtitle": "اختر ما إذا كنت تريد توصيل الخدمة إليك",
+    "desc_bmw_r1250gs": "دراجة نارية سياحية بميزات فاخرة",
+    "desc_chevrolet_silverado": "شاحنة كبيرة بسحب قوي",
+    "desc_ford_f150": "شاحنة صغيرة ذات قدرات قوية",
+    "desc_ford_mustang": "سيارة أمريكية قوية ذات أداء متميز",
+    "desc_harley_sportster": "دراجة نارية كلاسيكية بتصميم خالد",
+    "desc_honda_cbr600rr": "دراجة نارية رياضية عالية الأداء للهواة",
+    "desc_honda_civic": "سيارة رياضية صغيرة مع قيادة ممتازة",
+    "desc_toyota_corolla": "سيارة سيدان موثوقة وموفرة للوقود مع ميزات حديثة",
+    "desc_toyota_tacoma": "شاحنة متوسطة معروفة بمتانتها وأدائها على الطرق الوعرة",
+    "description": "الوصف",
+    "determining_provider_location": "جاري تحديد موقع مقدم الخدمة...",
+    "diagnostic": "التشخيص",
+    "discountBanner": "مفاجأة صيفية",
+    "dismiss": "إغلاق",
+    "distance": "المسافة",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "driver": "سائق",
+    "driverArrived": "وصل مقدم الخدمة",
+    "driverComing": "مقدم الخدمة قادم خلال",
+    "driverHasArrived": "وصل مقدم الخدمة",
+    "driverIconLoadFailed": "فشل في تحميل أيقونة مقدم الخدمة",
+    "driverIncluded": "يشمل السائق",
+    "driverInfo": "معلومات مقدم الخدمة",
+    "driverInfoError": "خطأ في استرجاع معلومات مقدم الخدمة.",
+    "driverIsComing": "مقدم الخدمة قادم - وقت الوصول: ",
+    "driverOnWay": "مقدم الخدمة في طريقه",
+    "driverSearchError": "فشل في العثور على مزودين.",
+    "driverToDestination": "في طريقه إلى الوجهة",
+    "driver_info_not_found": "بيانات السائق غير متوفرة",
+    "editPost": "تعديل المنشور",
+    "email": "البريد الإلكتروني",
+    "emailUs": "راسلنا عبر البريد الإلكتروني",
+    "emergencies": "الطوارئ",
+    "emergencyRepair": "إصلاح طارئ",
+    "welcomeToRanaJayeen": "مرحبًا بكم في رنا جايين",
+  "findMechanicsFast": "ابحث عن ميكانيكيين موثوقين بسرعة",
+  "createPost": "إنشاء منشور",
+  "titleRequired": "العنوان مطلوب",
+  "contentRequired": "المحتوى مطلوب",
+  "videoRequired": "الفيديو مطلوب",
+  "postCreated": "تم إنشاء المنشور بنجاح",
+  "postCreateError": "فشل في إنشاء المنشور",
+  "uploadImage": "رفع صورة",
+  "uploadVideo": "رفع فيديو",
+  "videoSelected": "تم تحديد الفيديو",
+  "submit": "إرسال",
+  "rating": "التقييم",
+  "emergencyRepairMessage": "هل تحتاج إلى إصلاح سيارة عاجل؟ ابحث عن ميكانيكي الآن!",
+  "searchMechanics": "ابحث عن الميكانيكيين...",
+    "emergencyContacts": "جهات الاتصال في حالات الطوارئ",
+    "emergencyInfo": "في حالة الطوارئ، لا تتردد في الاتصال فوراً. سلامتك أولويتنا.",
+    "emergencyNumbers": "أرقام الطوارئ",
+    "emptyComment": "لا يمكن أن يكون التعليق فارغًا",
+    "empty_field_error": "لا يمكن أن يكون هذا الحقل فارغًا",
+    "enRoute": "في الطريق:",
+    "enable_notifications": "سماح بالاشعارات",
+    "english": "الإنجليزية",
+    "enterCodeSentTo": "أدخل الرمز المرسل إلى {phoneNumber}",
+    "enterDescription": "أدخل وصفًا (اختياري)",
+    "enterFeedback": "أدخل تقييمك (اختياري)...",
+    "enterPartName": "أدخل اسم القطعة",
+    "enterText": "رجاءً أدخل النص",
+    "enterValidOtp": "الرجاء إدخال رمز OTP صحيح مكون من 6 أرقام",
+    "enterVehicleBrand": "أدخل ماركة المركبة",
+    "enterYourName": "أدخل اسمك",
+    "error": "خطأ",
+    "errorAddress": "خطأ في الحصول على العنوان",
+    "errorLoadingServices": "حدث خطأ أثناء تحميل الخدمات",
+    "errorLocation": "خطأ في الحصول على الموقع",
+    "errorMessage": "حدث خطأ ما",
+    "errorRequest": "فشل معالجة طلبك",
+    "errorSendingOtp": "فشل في إرسال رمز التحقق: {error}",
+    "errorUnexpected": "خطأ غير متوقع",
+    "error_checking_location_permission": "خطأ في التحقق من إذن الموقع",
+    "error_fetching_chats": "خطأ في جلب الدردشات",
+    "error_fetching_driver_details": "فشل في جلب تفاصيل المزود",
+    "error_fetching_gas_stations": "فشل في جلب محطات الوقود",
+    "error_fetching_provider": "خطأ في جلب تفاصيل مقدم الخدمة",
+    "error_fetching_stores": "خطأ في جلب المتاجر",
+    "error_location_denied": "تم رفض إذن الموقع",
+    "error_location_denied_forever": "تم رفض إذن الموقع بشكل دائم",
+    "error_location_disabled": "خدمة الموقع معطلة",
+    "error_location_failed": "تعذر الحصول على الموقع",
+    "error_message_fetch_failed": "فشل في جلب الرسائل: %s",
+    "error_message_send_failed": "فشل في إرسال الرسالة: %s",
+    "error_phone_call": "فشل إجراء المكالمة",
+    "error_request_failed": "فشل تقديم الطلب: {error}",
+    "error_request_save": "فشل في حفظ الطلب",
+    "error_request_status": "خطأ في متابعة حالة الطلب: {error}",
+    "error_search_failed": "فشل البحث عن مقدم الخدمة: {error}",
+    "error_tracking_request": "فشل في تتبع الطلب",
+    "error_user_location": "فشل في الحصول على معلومات المستخدم أو الموقع",
+    "expand_search": "توسيع البحث",
+    "expanding_search": "توسيع نطاق البحث إلى",
+    "exteriorWash": "غسيل خارجي",
+    "exterior_wash": "غسيل خارجي",
+    "failed_phone_call": "فشل في إجراء مكالمة هاتفية",
+    "failed_to_book_store": "فشل في حجز المتجر",
+    "failed_to_cancel_request": "فشل في إلغاء الطلب.",
+    "failed_to_create_request": "فشل في إنشاء الطلب. جاري إعادة المحاولة...",
+    "failed_to_fetch_driver_details": "فشل في جلب تفاصيل السائق",
+    "failed_to_get_address": "فشل في جلب العنوان.",
+    "failed_to_get_location": "فشل في الحصول على الموقع",
+    "failed_to_initialize": "فشل في تهيئة التطبيق",
+    "failed_to_initialize_provider_search": "فشل في تهيئة البحث عن مقدمي الخدمة.",
+    "failed_to_load_messages": "فشل في تحميل رسائل الدردشة",
+    "failed_to_load_providers": "فشل في تحميل مقدمي الخدمة.",
+    "failed_to_make_call": "فشل في إجراء المكالمة",
+    "failed_to_monitor_status": "فشل في مراقبة حالة الطلب",
+    "failed_to_notify_provider": "فشل في إشعار مقدم الخدمة",
+    "failed_to_open_chat": "فشل في فتح الدردشة",
+    "failed_to_receive_ride_updates": "فشل في استقبال تحديثات الرحلة",
+    "failed_to_restore_state": "فشل في استعادة الحالة",
+    "failed_to_search_providers": "فشل في البحث عن مقدمي الخدمة.",
+    "failed_to_send_notification": "فشل في إرسال الإشعار",
+    "failed_to_send_request": "فشل في إرسال الطلب إلى مقدم الخدمة.",
+    "failed_to_start_chat": "فشل في بدء الدردشة",
+    "failed_to_submit_request": "فشل في إرسال الطلب",
+    "failed_to_sync": "فشل في مزامنة البيانات",
+    "failed_to_sync_driver_data": "فشل في مزامنة بيانات مقدم الخدمة",
+    "failed_to_update_location": "فشل في تحديث الموقع",
+    "featureNotAvailable": "ميزة قيد التطوير حالياً. نحن نعمل بجد لتوفيرها لك في أقرب وقت ممكن!",
+    "featuredOffer": "عرض مميز",
+    "features": "الميزات",
+    "feedback": "التقييم",
+    "feedbackSuccess": "تم إرسال تقييمك بنجاح. شكرًا لرأيك!",
+    "fetching_location": "جاري جلب الموقع...",
+    "findYourRide": "ابحث عن سيارتك",
+    "findingProvider": "البحث عن مقدم خدمة",
+    "firstname": "الاسم الأول",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "freeDiagnostic": "تشخيص مجاني",
+    "freeDiagnosticDesc": "احصل على تشخيص مجاني لسيارتك هذا الأسبوع فقط!",
+    "french": "الفرنسية",
+    "fullName": "الاسم الكامل",
+    "fullNameOptional": "الاسم الكامل",
+    "fullRepairTitle": "إصلاح كامل",
+    "fullRepairType": "تصليح شامل",
+    "fullWash": "غسيل كامل",
+    "full_wash": "غسيل كامل",
+    "gasStation": "محطة وقود",
+    "gasStationDescription": "خدمات الوقود والتسهيلات",
+    "gasStationTitle": "محطة وقود",
+    "gas_station_selected": "تم اختيار محطة الوقود",
+    "gendarmerie": "الدرك الوطني",
+    "gendarmerieDescription": "يهمنا سلامتك. فور حدوث أي طارئ، يمكنك الاتصال مباشرة أو إرسال تنبيه أو رسالة مع موقع تواجدك.",
+    "geoFireError": "خطأ في تهيئة GeoFire.",
+    "glassRepairDescription": "خدمات إصلاح الزجاج الأمامي والزجاج",
+    "glassRepairTitle": "إصلاح الزجاج",
+    "go_back": "العودة",
+    "goingToDestination": "في الطريق إلى الوجهة - وقت الوصول: ",
+    "guest": "ضيف",
+    "guides": "مقالة",
+    "help": "المساعدة",
+    "helpDescription": "يبدو أنك تواجه مشكلة. نحن هنا لمساعدتك!\nلا تتردد في التواصل معنا عبر إرسال رسالة أو الاتصال بنا.",
+    "helpText": "نص المساعدة",
+    "hide_stores": "إخفاء المتاجر",
+    "highestRated": "الأعلى تقييمًا",
+    "home": "الرئيسية",
+    "hours_ago": "{count, plural, zero{قبل 0 ساعات} one{قبل ساعة واحدة} other{قبل {count} ساعات}}",
+    "howCanWeHelp": "كيف يمكننا مساعدتك؟",
+    "in_progress": "جاري",
+    "info": "معلومات",
+    "initializing_service": "جارٍ تهيئة الخدمة...",
+    "interiorWash": "غسيل داخلي",
+    "interior_wash": "غسيل داخلي",
+    "invalidOtp": "رمز التحقق غير صالح",
+    "invalid_service_type": "نوع الخدمة غير صالح",
+    "inviteFriend": "دعوة صديق",
+    "job": "الوظيفة",
+    "just_now": "الآن",
+    "keyProgrammingDescription": "برمجة أو استبدال مفاتيح السيارة في الموقع",
+    "keyProgrammingTitle": "برمجة مفاتيح السيارة",
+    "km": "كم",
+    "languageChanged": "تم تغيير اللغة بنجاح",
+    "lat": "خط العرض",
+    "learnMore": "تعرف على المزيد",
+    "like": "إعجاب",
+    "likeError": "حدث خطأ أثناء تحديث حالة الإعجاب",
+    "liked": "تم الإعجاب بنجاح",
+    "lng": "خط الطول",
+    "loading": "جاري التحميل...",
+    "loadingAddress": "جارٍ تحميل العنوان...",
+    "loadingCarFixesTips": "جارٍ تحميل إصلاحات السيارات والنصائح...",
+    "loadingPosts": "جاري تحميل المنشورات...",
+    "loadingTutorials": "جارٍ تحميل الدروس...",
+    "loading_address": "جاري تحميل العنوان...",
+    "locating": "جارٍ تحديد الموقع...",
+    "location": "الموقع",
+    "locationDisabled": "خدمات الموقع معطلة. يرجى تفعيلها لعرض مقدم الخدمةين.",
+    "locationError": "معلومات الموقع غير متوفرة.",
+    "locationFetchError": "فشل في الحصول على الموقع.",
+    "locationFetchFailed": "فشل في تحديد الموقع، حاول مرة أخرى",
+    "locationPermission": "يرجى تفعيل إذن الموقع",
+    "locationPermissionDenied": "يجب منح إذن الموقع.",
+    "locationPermissionDeniedForever": "تم رفض إذن الموقع بشكل دائم. يرجى تفعيله في الإعدادات.",
+    "locationPermissionError": "خطأ في التحقق من إذن الموقع.",
+    "locationPermissionPermanentlyDenied": "تم رفض إذن الموقع بشكل دائم.",
+    "locationPermissionRequired": "مطلوب إذن الموقع لاستخدام الخدمة",
+    "locationServiceDisabled": "خدمات الموقع معطلة. يرجى تفعيلها.",
+    "locationServicesDisabled": "خدمات الموقع معطلة. يرجى تفعيلها.",
+    "location_denied": "تم رفض إذن الموقع. يرجى السماح بالوصول.",
+    "location_denied_forever": "تم رفض إذن الموقع بشكل دائم. يرجى تفعيله في الإعدادات.",
+    "location_disabled": "خدمات الموقع معطلة. يرجى تفعيلها.",
+    "location_error": "خطأ في جلب الموقع. يرجى المحاولة مرة أخرى.",
+    "location_fetch_failed": "فشل في الحصول على الموقع",
+    "location_permission_denied": "تم رفض إذن الموقع.",
+    "location_permission_denied_forever": "تم رفض إذن الموقع بشكل دائم.",
+    "location_permission_denied_permanently": "تم رفض إذن الموقع بشكل دائم",
+    "location_permission_error": "خطأ في إذن الموقع",
+    "location_permission_required": "إذن الموقع مطلوب",
+    "location_selection": "اختيار الموقع",
+    "location_service_disabled": "خدمات الموقع معطلة",
+    "location_services_disabled": "يرجى تفعيل خدمات الموقع.",
+    "login": "تسجيل الدخول",
+    "loginRequired": "يرجى تسجيل الدخول للاشتراك",
+    "logout": "تسجيل الخروج",
+    "logoutError": "خطأ في تسجيل الخروج: @error",
+    "luxury": "فاخرة",
+    "maintenanceCategory": "الصيانة",
+    "map": "خريطة",
+    "message":"ارسال رسالة",
+    "mapThemeError": "فشل في تحميل نمط الخريطة.",
+    "map_label": "خريطة تُظهر موقعك ومقدمي الخدمة القريبين",
+    "max_retries_reached": "تم الوصول إلى الحد الأقصى للمحاولات للبحث.",
+    "mechanicServices": "خدمات الميكانيكي",
+    "menu": "القائمة",
+    "messageComingSoon": "ميزة المراسلة قيد التطوير حالياً وسوف تكون متاحة قريباً. شكراً لصبركم!",
+    "messageSent": "تم إرسال الرسالة",
+    "messageSuccess": "تم إرسال رسالتك بنجاح. سيتم التواصل معك قريبًا.",
+    "minutes_ago": "{count, plural, zero{قبل 0 دقائق} one{قبل دقيقة واحدة} other{قبل {count} دقائق}}",
+    "mobile_car_wash": "غسيل متنقل",
+    "mobile_car_wash_provider": "مقدم خدمة غسيل سيارات متنقل",
+    "more_info_hint": "أضف المزيد من المعلومات",
+    "motorcycle": "دراجة نارية",
+    "motorcycles": "الدراجات النارية",
+    "name": "الاسم",
+    "nearby_gas_stations": "محطات الوقود القريبة",
+    "new_message_body": "رسالة جديدة من",
+    "new_message_title": "رسالة جديدة",
+    "new_request_at": "جديد",
+    "next": "التالي",
+    "no": "لا",
+    "noAddressFound": "لا يوجد عنوان لهذا الموقع",
+    "noCarFixesTips": "لا يوجد محتوى متاح لهذه الفئة.",
+    "noDriversAvailable": "لا يوجد مزودي خدمة متاحين",
+    "invalidPhoneNumber": "رقم الهاتف غير صالح. يرجى التحقق وإعادة المحاولة.",
+  "tooManyRequests": "طلبات كثيرة جدًا. يرجى الانتظار قبل المحاولة مرة أخرى.",
+  "otpExpired": "انتهت صلاحية رمز التحقق. يرجى طلب رمز جديد.",
+    "noInternetConnection": "لا يوجد اتصال بالإنترنت",
+    "noMatchingDriver": "لم يتم العثور على سائق مطابق",
+    "noMatchingProvider": "لم يتم العثور على مزود مطابق.",
+    "noPhone": "لا يوجد رقم هاتف",
+  "rating_submitted": "تم إرسال التقييم بنجاح",
+  "rating_queued": "تمت إضافة التقييم إلى قائمة الانتظار، سيتم المزامنة عند الاتصال بالإنترنت",
+  "no_ratings": "لا تقييمات بعد",
+  "failed_to_submit_rating": "فشل في إرسال التقييم",
+  "noInternetConnectionWithCache": "لا يوجد اتصال بالإنترنت. استخدم الوضع غير المتصل بالبيانات المحفوظة سابقًا أو حاول مرة أخرى عند الاتصال.",
+  "useOffline": "استخدام وضع عدم متصل",
+
+  "checkingNetwork": "جارٍ التحقق من الاتصال بالشبكة...",
+  "loadingCachedData": "جارٍ تحميل البيانات المحفوظة...",
+  "dataSynced": "تم تحديث بياناتك.",
+  "syncFailed": "فشل تحديث البيانات. يرجى المحاولة مرة أخرى لاحقًا.",
+    "noPosts": "لا توجد منشورات متاحة",
+    "noProviderAvailable": "لا يوجد مزود خدمة متاح حالياً",
+    "noProvidersAvailable": "لا يوجد مزود خدمة متاح حالياً",
+    "noProvidersNearby": "لا يوجد مزودين متاحين بالقرب.",
+    "noServicesFound": "لم يتم العثور على خدمات",
+    "noTutorials": "لا توجد دروس متاحة لهذه الفئة.",
+    "noVehicles": "لم يتم العثور على سيارات",
+    "no_address": "لا يوجد عنوان مقدم",
+    "no_cached_providers": "لم يتم العثور على مقدمي خدمة مخزنين لهذه الخدمة.",
+    "no_chats_available": "لا توجد دردشات متاحة",
+    "no_driver_assigned": "لم يتم تعيين سائق بعد",
+    "no_drivers_available": "لا يوجد مزودو خدمات متاحون بالقرب منك",
+    "no_gas_stations_available": "لا توجد محطات وقود متاحة",
+    "no_provider_found": "لم يتم العثور على مقدم خدمة",
+    "no_providers_available": "لا يوجد مقدمو خدمة متاحون",
+    "no_providers_available_offline": "لا يوجد مقدمو خدمة متاحون في وضع عدم الاتصال",
+    "no_providers_for": "لا يوجد مزودون متاحون لـ",
+    "no_providers_found": "لم يتم العثور على مقدمي خدمة بعد الحد الأقصى للمحاولات.",
+    "no_providers_found_searching": "لم يتم العثور على مقدمي خدمة. مواصلة البحث...",
+    "no_results_found": "لم يتم العثور على نتائج للبحث",
+    "no_stores_available": "لا توجد متاجر متاحة لهذه الخدمة",
+    "not_available": "غير متوفر",
+    "not_specified": "غير محدد",
+    "notificationSent": "تم إرسال الإشعار إلى مزودي الخدمة القريبين",
+    "notification_failed": "فشل في إرسال الإشعار إلى مقدم الخدمة",
+    "notification_next_provider": "البحث عن مقدم خدمة آخر",
+    "notification_sent_success": "جارٍ التواصل مع مقدم الخدمة",
+    "notification_unavailable": "الإشعار غير متاح.",
+    "notifications_title": "الإبلاغات",
+    "offline_mode": "وضع عدم الاتصال",
+    "offline_providers_available": "مقدمو الخدمة المتاحون (غير متصل)",
+    "oilChange": "تغيير الزيت",
+    "ok": "موافق",
+    "or": "أو",
+    "originAddress": "عنوان الموقع",
+    "otpRequestTooSoon": "الرجاء الانتظار قبل طلب رمز OTP آخر",
+    "otpSendFailed": "فشل إرسال رمز OTP",
+    "otpSentSuccessfully": "تم إرسال رمز OTP بنجاح",
+    "otpVerificationFailed": "فشل التحقق من رمز OTP",
+    "partName": "اسم الجزء",
+    "partNameError": "يرجى إدخال اسم الجزء",
+    "password": "كلمة المرور",
+    "phone": "الهاتف",
+    "phoneNotAvailable": "رقم الهاتف غير متاح",
+    "phoneNumber": "رقم الهاتف",
+    "phoneVerifiedMessage": "تم التحقق من رقم هاتفك بنجاح.",
+    "phoneVerifiedSuccessfully": "تم التحقق من الهاتف بنجاح",
+    "phone_not_available": "رقم الهاتف غير متاح",
+    "pickupDate": "تاريخ الاستلام",
+    "pleaseEnterName": "الرجاء إدخال اسمك",
+    "pleaseEnterValidPhone": "الرجاء إدخال رقم هاتف صحيح",
+    "pleaseSelectRating": "يرجى اختيار تقييم قبل الإرسال.",
+    "pleaseWait": "يرجى الانتظار قليلاً",
+    "police": "الشرطة",
+    "policeDescription": "يهمنا سلامتك. فور حدوث أي طارئ، يمكنك الاتصال مباشرة أو إرسال تنبيه أو رسالة مع موقع تواجدك.",
+    "popularProducts": "الخدمات الأساسية",
+    "popularServices": "الخدمات الاساسية ",
+    "postDeleteError": "حدث خطأ أثناء حذف المنشور",
+    "postDeleted": "تم حذف المنشور بنجاح",
+    "postUpdateError": "حدث خطأ أثناء تحديث المنشور",
+    "nearby_stores": "{serviceTitle} القريبة",
+"@nearby_stores": {
+  "description": "Title for the list of nearby stores or service providers, where {serviceTitle} is the type of service (e.g., محطات الوقود, متاجر الإصلاح).",
+  "placeholders": {
+    "serviceTitle": {}
+  }
+},
+    "postUpdated": "تم تحديث المنشور بنجاح",
+    "pothole_report_category": "حفرة",
+    "pothole_report_description": "الإبلاغ عن حفرة لتحسين سلامة الطرق",
+    "powerfulTruck": "شاحنة قوية",
+    "priceHighToLow": "السعر: من الأعلى إلى الأقل",
+    "priceLowToHigh": "السعر: من الأقل إلى الأعلى",
+    "pricePerDay": "السعر اليومي",
+    "primaryServices": "الخدمات الأساسية",
+    "profile": "الملف الشخصي",
+    "promotions": "العروض الترويجية",
+    "provider": "مقدم الخدمة",
+    "providerArrived": "وصل مقدم الخدمة",
+    "providerOnWay": "مقدم الخدمة في طريقه",
+    "provider_assigned": "تم تعيين مقدم الخدمة",
+    "provider_assigned_body": "مقدم الخدمة",
+    "provider_declined": "رفض مزودو الخدمة الطلب. جارٍ المحاولة مع مزودين آخرين...",
+    "provider_details": "تفاصيل مقدم الخدمة",
+    "provider_location": "موقع مقدم الخدمة",
+    "provider_no_service": "مقدم الخدمة لا يقدم هذه الخدمة",
+    "provider_not_found": "لم يتم العثور على مقدم الخدمة في البيانات المخزنة",
+    "provider_notification_unavailable": "مقدم الخدمة",
+    "provider_on_way": "مقدم الخدمة في الطريق",
+    "provider_timeout": "لم يستجب مزودو الخدمة. جارٍ المحاولة مع مزودين آخرين...",
+    "providers": "مقدمي الخدمة",
+    "providers_declined": "رفض مقدمو الخدمة. جاري المحاولة مع مقدمين آخرين...",
+    "providers_no_response": "لم يستجب مقدمو الخدمة. جاري المحاولة مع مقدمين آخرين...",
+    "reachingTimeError": "خطأ في تحديث وقت الوصول إلى الوجهة.",
+    "refresh": "تحديث",
+    "register": "تسجيل",
+    "rentVehicles": "تأجير المركبات",
+    "repairCategory": "الإصلاح",
+    "report_category": "ساهم في تسريع اصلاح الطرقات بالتبيغ عنها",
+    "report_pothole": "الإبلاغ عن حفرة",
+    "reports_label": "تقارير",
+    "requestCarWash": "طلب غسيل سيارة",
+    "requestDelivery": "طلب التوصيل",
+    "requestError": "فشل في حفظ الطلب.",
+    "requestPickup": "طلب الاستلام",
+    "requestSent": "تم إرسال الطلب إلى المزود.",
+    "requestService": "طلب الخدمة",
+    "requestSubmitted": "تم تقديم الطلب",
+    "request_accepted": "تم قبول الطلب من قبل مزود الخدمة!",
+    "request_accepted_body": "تم قبول طلبك من قبل",
+    "request_accepted_title": "تم قبول الطلب",
+    "request_at": "طلب في",
+    "request_cancelled": "تم إلغاء الطلب.",
+    "request_cancelled_message": "تم إلغاء طلب الخدمة",
+    "request_delivery": "طلب التوصيل",
+    "request_details": "تفاصيل الطلب",
+    "request_details_error": "يرجى تقديم تفاصيل الطلب",
+    "request_pickup": "طلب الاستلام",
+    "request_queued": "تمت إضافة الطلب إلى قائمة الانتظار ليتم إرساله عند الاتصال بالإنترنت",
+    "request_service": "طلب الخدمة",
+    "request_service_button": "زر طلب الخدمة",
+    "request_stored": "تم تخزين الطلب لـ",
+    "request_timeout": "انتهت مهلة الطلب",
+    "request_type": "نوع الطلب",
+    "resendCode": "إعادة إرسال الرمز",
+    "resendInSeconds": "إعادة الإرسال بعد {seconds} ثانية",
+    "retry": "إعادة المحاولة",
+    "retry_connection_button": "زر إعادة المحاولة للاتصال",
+    "retrying_location": "جاري إعادة محاولة جلب الموقع...",
+    "returnDate": "تاريخ التسليم",
+    "reviews": "مراجعات",
+    "ride_cancelled_or_ended": "تم إلغاء الرحلة أو انتهت",
+    "ride_info_not_found": "بيانات الرحلة غير متوفرة",
+    "ride_status_updated": "تم تحديث حالة الرحلة",
+    "road_issue_report_title": "الإبلاغ عن حفرة",
+    "roadsideAssistance": "المساعدة على الطريق",
+    "routineMaintenanceDescription": "خدمات صيانة المركبة الدورية",
+    "routineMaintenanceTitle": "الصيانة الروتينية",
+    "save": "حفظ",
+    "saveData": "حفظ التأجير",
+    "savedInformation": "المعلومات المحفوظة",
+    "schedule_date": "تاريخ الجدولة",
+    "schedule_date_error": "يرجى اختيار تاريخ",
+    "schedule_time": "وقت الجدولة",
+    "schedule_time_error": "يرجى اختيار وقت",
+    "scheduled": "مجدول",
+    "search": "بحث",
+    "searchAgain": "يرجى المحاولة مرة أخرى لاحقًا",
+    "searchServices": "البحث عن الخدمات",
+    "searchVehicles": "البحث عن السيارات",
+    "search_continued": "مواصلة البحث عن مقدمي الخدمة...",
+    "search_error": "خطأ في البحث عن مزودين",
+    "search_error_try_again": "خطأ في البحث. الرجاء المحاولة مرة أخرى.",
+    "search_location": "البحث عن موقع",
+    "searchingForProvider": "البحث عن مقدم الخدمة",
+    "searching_for": "البحث عن",
+    "searching_for_another_driver": "جارٍ البحث عن سائق آخر...",
+    "searching_for_driver": "جاري البحث عن مقدم الخدمة...",
+    "searching_for_provider": "جاري البحث عن مقدم الخدمة",
+    "searching_offline": "جارٍ البحث دون اتصال...",
+    "secondaryServices": "الخدمات الثانوية",
+    "seeMore": "عرض المزيد",
+    "select": "اختر",
+    "selectDate": "اختر التاريخ",
+    "selectLocationFirst": "يرجى تحديد الموقع أولاً",
+    "selectNumber": "اختر رقماً للاتصال:",
+    "selectService": "يرجى اختيار خدمة.",
+    "selectServicePrompt": "يرجى اختيار خدمة",
+    "selectVehicleType": "اختر نوع المركبة",
+    "select_gas_station": "اختر",
+    "select_location_first": "يرجى اختيار الموقع أولاً.",
+    "select_provider_to_contact": "اختر مقدم خدمة للتواصل معه مباشرة",
+    "selfDrive": "قيادة ذاتية",
+    "send": "إرسال",
+    "sendAlert": "هل تريد فعلاً إرسال تنبيه؟",
+    "sendVerificationCode": "إرسال رمز التحقق",
+    "service": "الخدمة",
+    "serviceCategories": "خدمات الطوارئ",
+    "serviceDescription": "خدمة سحب السيارات إلى الموقع المطلوب",
+    "serviceTypeError": "يرجى اختيار نوع الخدمة",
+    "service_description": "اطلب هذه الخدمة في موقعك",
+    "service_not_available": "الخدمة غير متوفرة",
+    "service_not_available_message": "هذه الخدمة قيد الصيانة حاليًا. يرجى المحاولة مرة أخرى لاحقًا.",
+    "service_provider": "مزود الخدمة",
+    "service_type": "نوع الخدمة",
+    "services": "الخدمات",
+    "servicesCount": "{count, plural, zero {لا توجد خدمات متاحة} one {خدمة واحدة متاحة} two {خدمتان متاحتان} few {متاح {count} خدمات} many {متاح {count} خدمة} other {متاح {count} خدمة}}",
+    "setLocationButton": "تحديد الموقع",
+    "settings": "الاعدادات",
+    "severity_high": "عالية",
+    "share": "مشاركة",
+    "shareError": "حدث خطأ أثناء مشاركة المنشور",
+    "sharePostText": "تحقق من هذا المنشور الرائع!",
+    "shopNow": "تسوق الآن",
+    "show_stores": "إظهار المتاجر",
+    "signIn": "تسجيل الدخول",
+    "sort_by_distance": "الفرز حسب المسافة",
+    "sort_by_name": "الفرز حسب الاسم",
+    "sort_providers": "فرز مقدمي الخدمة",
+    "sparePartsDescription": "قطع غيار عالية الجودة لمركبتك",
+    "sparePartsTitle": "قطع الغيار",
+    "sparePartsType": "بيع قطع غيار",
+    "sportyMotorcycle": "دراجة نارية رياضية",
+    "stationary_car_wash": "غسيل ثابت",
+    "status": "الحالة",
+    "store": "المتجر",
+    "store_service_description": "اختر متجرًا أو اختر التوصيل لاحتياجات خدمتك",
+    "submit": "إرسال الطلب",
+    "subscribe": "اشتراك",
+    "subscribed": "تم الاشتراك بنجاح",
+    "subscriptionError": "حدث خطأ أثناء تحديث حالة الاشتراك",
+    "success": "نجاح!",
+    "support": "الدعم",
+    "suv": "دفع رباعي",
+    "tags": "الوسوم",
+    "tags_hint": "أدخل الوسوم، مفصولة بفواصل (مثال: #إصلاح_سيارات، #صيانة)",
+    "take_photo": "التقاط صورة",
+    "taxDisclaimer": "الأسعار قد لا تشمل الضرائب والرسوم",
+    "termsAndConditions": "بالمتابعة، فإنك توافق على الشروط والأحكام الخاصة بنا.",
+    "testimonial1": "خدمة مذهلة! تم إصلاح سيارتي في وقت قصير.",
+    "testimonial2": "موثوق وميسور التكلفة. أوصي به بشدة!",
+    "testimonials": "الشهادات",
+    "text": "الرسالة",
+    "thankYou": "شكرًا",
+    "thankYouPatience": "شكراً لصبرك!",
+    "time": "الوقت",
+    "timeoutError": "انتهت مهلة الطلب. يرجى التحقق من الاتصال والمحاولة مرة أخرى.",
+    "tireRepair": "إصلاح الإطارات",
+    "tireRepairDescription": "خدمة إصلاح الإطارات في الموقع",
+    "tireRepairTitle": "إصلاح الإطارات",
+    "title": "عنوان",
+    "totalFor": "الإجمالي لـ",
+    "towTruckDescription": "سحب السيارة إلى الموقع المطلوب",
+    "towTruckTitle": "خدمة سحب السيارات",
+    "towTruckType": "حاملة",
+    "towingService": "خدمة السحب",
+    "trip_cancelled_or_ended": "تم إلغاء الرحلة أو انتهت",
+    "trip_in_progress": "الخدمة قيد التنفيذ",
+    "truck": "شاحنة",
+    "trucks": "شاحنات",
+    "tryDifferentCityOrDate": "جرب مدينة أو تاريخ آخر!",
+    "tryDifferentDate": "جرب تاريخ آخر",
+    "tutorials": "الدروس",
+    "type_message": "ارسل رسالة",
+    "unable_to_create_request": "غير قادر على إنشاء الطلب. يرجى المحاولة لاحقًا.",
+    "unable_to_get_location": "غير قادر على جلب الموقع. استخدام الموقع الافتراضي.",
+    "understood": "فهمت",
+    "unknown": "غير معروف",
+    "unknownAddress": "عنوان غير معروف",
+    "unknownLocation": "غير معروف",
+    "unknownNumber": "رقم غير معروف",
+    "unknownService": "خدمة غير معروفة",
+    "unknown_location": "موقع غير معروف",
+    "unlike": "إلغاء الإعجاب",
+    "unliked": "تم إلغاء الإعجاب بنجاح",
+    "unspecified": "غير محدد",
+    "unsubscribe": "إلغاء الاشتراك",
+    "unsubscribed": "تم إلغاء الاشتراك بنجاح",
+    "upload_failed": "فشل في رفع الصورة",
+    "urgent": "عاجل",
+    "urgent_request": "طلب عاجل",
+    "urlError": "غير قادر على فتح المحتوى. يرجى المحاولة مرة أخرى.",
+    "user1": "جون دو",
+    "user2": "جين سميث",
+    "userInfoError": "فشل في الحصول على معلومات المستخدم.",
+    "userLocationFetchFailed": "فشل في جلب بيانات المستخدم أو الموقع",
+    "username": "اسم المستخدم",
+    "vehicle": "السيارة",
+    "vehicleBrand": "ماركة السيارة",
+    "vehicleBrandError": "يرجى إدخال ماركة السيارة",
+    "vehicleType": "نوع المركبة",
+    "vehicleTypeError": "يرجى اختيار نوع المركبة",
+    "verificationCode": "رمز التحقق",
+    "verificationFailed": "فشل التحقق: {error}",
+    "videos": "فيديوهات",
+    "viewAll": "عرض الكل",
+    "views": "{count, plural, zero{0 مشاهدات} one{مشاهدة واحدة} other{{count} مشاهدات}}",
+    "waiting": "في انتظار",
+    "waiting_for_confirmation": "تم إرسال طلبك، يرجى الانتظار لتأكيد مقدم الخدمة",
+    "washType": "نوع الغسيل",
+    "washTypeError": "يرجى اختيار نوع الغسيل",
+    "wash_type": "نوع الغسيل",
+    "wash_type_error": "يرجى تحديد نوع الغسيل",
+    "weAreComing": "رانا جايين",
+    "weAreHereToHelp": "نحن هنا للمساعدة",
+    "welcome": "مرحباً",
+    "wheelChangeDescription": "إصلاح أو استبدال الإطارات في موقعك",
+    "wheelChangeTitle": "تغيير أو إصلاح الإطارات",
+    "wheelChangeType": "تغيير عجلات",
+    "whoWeAre": "من نحن",
+    "willContact": "سنتصل بك قريبًا بتفاصيل الخدمة",
+    "withDriver": "مع سائق",
+    "writeHere": "اكتب هنا",
+    "year": "السنة",
+    "yes": "نعم",
+    "yourLocation": "موقعك الحالي",
+    "yourOpinionMatters": "رأيك يهمنا لذا عبر بكل راحة.",
+    "your_location": "موقعك",
+    "zoom_in": "تكبير",
+    "zoom_out": "تصغير",
+    "openMenu": "ⴰⵣⵎⵎⴰⵎ",
+  "view_providers": "عرض المزودين المخزنين",
+  "@view_providers": {
+    "description": "تسمية الزر لعرض المزودين المخزنين في الوضع غير المتصل."
+  },
+  "cached_providers": "المزودين المخزنين",
+  "@cached_providers": {
+    "description": "عنوان الورقة السفلية التي تعرض المزودين المخزنين."
+  },
+  "offline_request_not_allowed": "لا يمكن إرسال الطلب في الوضع غير المتصل. عرض المزودين المخزنين بدلاً من ذلك.",
+  "@offline_request_not_allowed": {
+    "description": "رسالة الخطأ التي تظهر عندما يحاول المستخدم إرسال طلب في الوضع غير المتصل."
+  },
+  "no_cached_providers_available": "لا توجد مزودات مخزنة متاحة.",
+  "@no_cached_providers_available": {
+    "description": "الرسالة التي تظهر عندما لا تكون هناك مزودات مخزنة متاحة في الوضع غير المتصل."
+  },
+"@openMenu": { "description": "Label for opening the navigation menu" },
+"greetingPersonal": "مرحبًا {userName}",
+  "@greetingPersonal": {
+    "description": "Personalized greeting with the user's name",
+    "placeholders": {
+      "userName": {}
+    }
+  },
+  "quotaExceededError": "طلبات OTP كثيرة جدًا. حاول لاحقًا أو استخدم طريقة أخرى.",
+  "@quotaExceededError": {
+    "description": "Error shown when OTP request limit is exceeded."
+  },
+  "greetingAvailability": "وين ما كنتو رانا كاينين",
+  "greetingSupport": "ادعمنا لنتطور و نتوسع اكثر",
+  "marketingSlogan": "تعطلت في أي مكان؟ رنا جايين تجلب المساعدة بسرعة.",
+  "trip_ended": "انتهت الرحلة",
+  "@trip_ended": {
+    "description": "عنوان إشعار التوست عند انتهاء الرحلة."
+  },
+  "trip_ended_message": "لقد انتهت رحلتك. يرجى تقييم الخدمة.",
+  "@trip_ended_message": {
+    "description": "وصف إشعار التوست عند انتهاء الرحلة."
+  },
+  "rate_service": "تقييم الخدمة",
+  "@rate_service": {
+    "description": "عنوان نافذة تقييم الرحلة."
+  },
+  "comments_optional": "التعليقات (اختيارية)",
+  "@comments_optional": {
+    "description": "تسمية تشير إلى أن التعليقات اختيارية في نافذة التقييم."
+  },
+  "enter_comments": "أدخل تعليقاتك هنا",
+  "@enter_comments": {
+    "description": "نص العنصر النائب لحقل إدخال التعليقات في نافذة التقييم."
+  },
+  "rating_submitted": "تم تقديم التقييم",
+  "@rating_submitted": {
+    "description": "عنوان إشعار التوست الناجح بعد تقديم التقييم."
+  },
+  "rating_submitted_message": "شكرًا على ملاحظاتك!",
+  "@rating_submitted_message": {
+    "description": "وصف إشعار التوست الناجح بعد تقديم التقييم."
+  },
+  "error_submitting_rating": "فشل في تقديم التقييم. حاول مرة أخرى.",
+  "@error_submitting_rating": {
+    "description": "رسالة خطأ عند فشل تقديم التقييم."
+  },
+  "chat_synced": "تم مزامنة الدردشة",
+  "@chat_synced": {
+    "description": "عنوان إشعار التوست الناجح عند مزامنة الدردشة المعلقة."
+  },
+  "chat_synced_message": "تمت مزامنة الدردشة بنجاح.",
+  "@chat_synced_message": {
+    "description": "وصف إشعار التوست الناجح عند مزامنة الدردشة المعلقة."
+  },
+  "trip_cancelled": "تم إلغاء الرحلة",
+  "@trip_cancelled": {
+    "description": "عنوان إشعار التوست عند إلغاء الرحلة."
+  },
+  "trip_cancelled_message": "لقد تم إلغاء رحلتك.",
+  "@trip_cancelled_message": {
+    "description": "وصف إشعار التوست عند إلغاء الرحلة."
+  },
+  "call_initiated": "تم بدء المكالمة",
+  "@call_initiated": {
+    "description": "عنوان إشعار التوست الناجح عند بدء المكالمة الهاتفية."
+  },
+  "call_initiated_message": "جارٍ الاتصال بالمزود.",
+  "@call_initiated_message": {
+    "description": "وصف إشعار التوست الناجح عند بدء المكالمة الهاتفية."
+  },
+
+  "error_invalid_coordinates": "الإحداثيات المقدمة غير صالحة",
+  "@error_invalid_coordinates": {
+    "description": "رسالة خطأ عند تقديم إحداثيات غير صالحة."
+  },
+  "error_api_key_missing": "مفتاح واجهة برمجة التطبيقات غير موجود",
+  "@error_api_key_missing": {
+    "description": "رسالة خطأ عندما لا يتم تهيئة مفتاح واجهة برمجة تطبيقات جوجل."
+  },
+  "error_fetching_directions": "فشل في جلب الاتجاهات",
+  "@error_fetching_directions": {
+    "description": "رسالة خطأ عند فشل جلب الاتجاهات."
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+}

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="po">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>po</title>
+  <link rel="manifest" href="manifest.json">
+
+  <script defer src="main.dart.js" type="application/javascript"></script>
+
+  <!-- Firebase Configuration -->
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-database-compat.js"></script>
+
+  <!-- Your Firebase Config -->
+  <script>
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: 'AIzaSyDSbm0rw1Z03VR3n5t_Rn_h8WqJaZG3Beg',
+      appId: '1:979356928920:android:98ae76e822d1a13810f9ed',
+      messagingSenderId: '979356928920',
+      projectId: 'newme-f9c0a',
+      storageBucket: 'newme-f9c0a.appspot.com',
+      // Add your Firebase config here
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
+  <!-- reCAPTCHA Setup for Phone Authentication -->
+  <script>
+    // Wait for Firebase to be initialized
+    document.addEventListener('DOMContentLoaded', function() {
+      // Set up invisible reCAPTCHA verifier
+      window.recaptchaVerifier = new firebase.auth.RecaptchaVerifier('recaptcha-container', {
+        'size': 'invisible',
+        'callback': function(response) {
+          // reCAPTCHA solved, allow signInWithPhoneNumber
+          console.log('reCAPTCHA solved successfully');
+        },
+        'expired-callback': function() {
+          // Response expired. Ask user to solve reCAPTCHA again
+          console.log('reCAPTCHA expired, please try again');
+        }
+      });
+
+      // Optional: You can also set up a visible reCAPTCHA as fallback
+      window.setupVisibleRecaptcha = function() {
+        if (window.recaptchaVerifier) {
+          window.recaptchaVerifier.clear();
+        }
+        
+        window.recaptchaVerifier = new firebase.auth.RecaptchaVerifier('recaptcha-container', {
+          'size': 'normal',
+          'callback': function(response) {
+            console.log('Visible reCAPTCHA solved');
+          },
+          'expired-callback': function() {
+            console.log('Visible reCAPTCHA expired');
+          }
+        });
+        
+        window.recaptchaVerifier.render();
+      };
+
+      // Function to send OTP with better error handling
+      window.sendOTPWithRecaptcha = function(phoneNumber) {
+        return firebase.auth().signInWithPhoneNumber(phoneNumber, window.recaptchaVerifier)
+          .then(function(confirmationResult) {
+            console.log('SMS sent successfully');
+            return confirmationResult;
+          })
+          .catch(function(error) {
+            console.error('Error during OTP sending:', error);
+            
+            // If invisible reCAPTCHA fails, try visible one
+            if (error.code === 'auth/captcha-check-failed') {
+              console.log('Invisible reCAPTCHA failed, switching to visible');
+              window.setupVisibleRecaptcha();
+              return firebase.auth().signInWithPhoneNumber(phoneNumber, window.recaptchaVerifier);
+            }
+            
+            throw error;
+          });
+      };
+    });
+  </script>
+
+  <style>
+    /* Hide the reCAPTCHA container by default */
+    #recaptcha-container {
+      display: none;
+    }
+    
+    /* Show it when needed */
+    #recaptcha-container.visible {
+      display: block;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 9999;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+    
+    /* Loading overlay styles */
+    .recaptcha-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9998;
+    }
+    
+    .recaptcha-loading {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <!-- Loading indicator -->
+  <div id="loading" class="recaptcha-overlay">
+    <div class="recaptcha-loading">
+      <div>Loading...</div>
+    </div>
+  </div>
+
+  <!-- Hidden container for reCAPTCHA -->
+  <div id="recaptcha-container"></div>
+
+  <script>
+    // Hide loading when Flutter app loads
+    window.addEventListener('flutter-first-frame', function () {
+      const loading = document.querySelector('#loading');
+      if (loading) {
+        loading.remove();
+      }
+    });
+    
+    // Service worker registration
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js');
+      });
+    }
+  </script>
+</body>
+</html>
